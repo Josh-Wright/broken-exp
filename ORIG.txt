@@ -1,18 +1,21 @@
 The Project Gutenberg eBook of Great Expectations
+    
 This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no
-restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at www.gutenberg.org. If you are not located in the
-United States, you will have to check the laws of the country where you
-are located before using this eBook.
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
 Title: Great Expectations
 
 Author: Charles Dickens
 
 
+        
 Release date: July 1, 1998 [eBook #1400]
-Most recently updated: December 17, 2024
+                Most recently updated: December 17, 2024
 
 Language: English
 
@@ -20,74 +23,91 @@ Other information and formats: www.gutenberg.org/ebooks/1400
 
 Credits: An Anonymous Volunteer and David Widger
 
+
 *** START OF THE PROJECT GUTENBERG EBOOK GREAT EXPECTATIONS ***
 
-Great Expectations
-[1867 Edition]
-by Charles Dickens
-Contents
-Chapter I.
-Chapter II.
-Chapter III.
-Chapter IV.
-Chapter V.
-Chapter VI.
-Chapter VII.
-Chapter VIII.
-Chapter IX.
-Chapter X.
-Chapter XI.
-Chapter XII.
-Chapter XIII.
-Chapter XIV.
-Chapter XV.
-Chapter XVI.
-Chapter XVII.
-Chapter XVIII.
-Chapter XIX.
-Chapter XX.
-Chapter XXI.
-Chapter XXII.
-Chapter XXIII.
-Chapter XXIV.
-Chapter XXV.
-Chapter XXVI.
-Chapter XXVII.
-Chapter XXVIII.
-Chapter XXIX.
-Chapter XXX.
-Chapter XXXI.
-Chapter XXXII.
-Chapter XXXIII.
-Chapter XXXIV.
-Chapter XXXV.
-Chapter XXXVI.
-Chapter XXXVII.
-Chapter XXXVIII.
-Chapter XXXIX.
-Chapter XL.
-Chapter XLI.
-Chapter XLII.
-Chapter XLIII.
-Chapter XLIV.
-Chapter XLV.
-Chapter XLVI.
-Chapter XLVII.
-Chapter XLVIII.
-Chapter XLIX.
-Chapter L.
-Chapter LI.
-Chapter LII.
-Chapter LIII.
-Chapter LIV.
-Chapter LV.
-Chapter LVI.
-Chapter LVII.
-Chapter LVIII.
-Chapter LIX.
 [Illustration]
 
+
+
+
+Great Expectations
+
+[1867 Edition]
+
+by Charles Dickens
+
+
+Contents
+
+ Chapter I.
+ Chapter II.
+ Chapter III.
+ Chapter IV.
+ Chapter V.
+ Chapter VI.
+ Chapter VII.
+ Chapter VIII.
+ Chapter IX.
+ Chapter X.
+ Chapter XI.
+ Chapter XII.
+ Chapter XIII.
+ Chapter XIV.
+ Chapter XV.
+ Chapter XVI.
+ Chapter XVII.
+ Chapter XVIII.
+ Chapter XIX.
+ Chapter XX.
+ Chapter XXI.
+ Chapter XXII.
+ Chapter XXIII.
+ Chapter XXIV.
+ Chapter XXV.
+ Chapter XXVI.
+ Chapter XXVII.
+ Chapter XXVIII.
+ Chapter XXIX.
+ Chapter XXX.
+ Chapter XXXI.
+ Chapter XXXII.
+ Chapter XXXIII.
+ Chapter XXXIV.
+ Chapter XXXV.
+ Chapter XXXVI.
+ Chapter XXXVII.
+ Chapter XXXVIII.
+ Chapter XXXIX.
+ Chapter XL.
+ Chapter XLI.
+ Chapter XLII.
+ Chapter XLIII.
+ Chapter XLIV.
+ Chapter XLV.
+ Chapter XLVI.
+ Chapter XLVII.
+ Chapter XLVIII.
+ Chapter XLIX.
+ Chapter L.
+ Chapter LI.
+ Chapter LII.
+ Chapter LIII.
+ Chapter LIV.
+ Chapter LV.
+ Chapter LVI.
+ Chapter LVII.
+ Chapter LVIII.
+ Chapter LIX.
+
+[Illustration]
+
+
+
+
 Chapter I.
+
+
 My father’s family name being Pirrip, and my Christian name Philip, my
 infant tongue could make of both names nothing longer or more explicit
 than Pip. So, I called myself Pip, and came to be called Pip.
@@ -292,7 +312,12 @@ heads to gaze after him, I wondered whether they thought so too. I
 looked all round for the horrible young man, and could see no signs of
 him. But now I was frightened again, and ran home without stopping.
 
+
+
+
 Chapter II.
+
+
 My sister, Mrs. Joe Gargery, was more than twenty years older than I,
 and had established a great reputation with herself and the neighbours
 because she had brought me up “by hand.” Having at that time to find
@@ -650,7 +675,12 @@ Then I put the fastenings as I had found them, opened the door at which
 I had entered when I ran home last night, shut it, and ran for the
 misty marshes.
 
+
+
+
 Chapter III.
+
+
 It was a rimy morning, and very damp. I had seen the damp lying on the
 outside of my little window, as if some goblin had been crying there
 all night, and using the window for a pocket-handkerchief. Now, I saw
@@ -799,7 +829,7 @@ crunching of pie-crust.
 “The young man. That you spoke of. That was hid with you.”
 
 “Oh ah!” he returned, with something like a gruff laugh. “Him? Yes,
-yes! He don’t want no wittles.”
+yes! _He_ don’t want no wittles.”
 
 “I thought he looked as if he did,” said I.
 
@@ -823,7 +853,7 @@ first idea about cutting my throat had revived.
 reason for wanting to borrow a file. Didn’t you hear the cannon last
 night?”
 
-“Then there was firing!” he said to himself.
+“Then there _was_ firing!” he said to himself.
 
 “I wonder you shouldn’t have been sure of that,” I returned, “for we
 heard it up at home, and that’s farther away, and we were shut in
@@ -869,8 +899,13 @@ fetter, muttering impatient imprecations at it and at his leg. The last
 I heard of him, I stopped in the mist to listen, and the file was still
 going.
 
+
+
+
 Chapter IV.
-Ifully expected to find a Constable in the kitchen, waiting to take me
+
+
+I fully expected to find a Constable in the kitchen, waiting to take me
 up. But not only was there no Constable there, but no discovery had yet
 been made of the robbery. Mrs. Joe was prodigiously busy in getting the
 house ready for the festivities of the day, and Joe had been put upon
@@ -878,16 +913,16 @@ the kitchen doorstep to keep him out of the dust-pan,—an article into
 which his destiny always led him, sooner or later, when my sister was
 vigorously reaping the floors of her establishment.
 
-“And where the deuce ha’ you been?” was Mrs. Joe’s Christmas
+“And where the deuce ha’ _you_ been?” was Mrs. Joe’s Christmas
 salutation, when I and my conscience showed ourselves.
 
 I said I had been down to hear the Carols. “Ah! well!” observed Mrs.
 Joe. “You might ha’ done worse.” Not a doubt of that I thought.
 
 “Perhaps if I warn’t a blacksmith’s wife, and (what’s the same thing) a
-slave with her apron never off, I should have been to hear the Carols,”
-said Mrs. Joe. “I’m rather partial to Carols, myself, and that’s the
-best of reasons for my never hearing any.”
+slave with her apron never off, _I_ should have been to hear the
+Carols,” said Mrs. Joe. “I’m rather partial to Carols, myself, and
+that’s the best of reasons for my never hearing any.”
 
 Joe, who had ventured into the kitchen after me as the dustpan had
 retired before us, drew the back of his hand across his nose with a
@@ -978,7 +1013,7 @@ opinion of this style!”
 
 I opened the door to the company,—making believe that it was a habit of
 ours to open that door,—and I opened it first to Mr. Wopsle, next to
-Mr. and Mrs. Hubble, and last of all to Uncle Pumblechook. N.B. I was
+Mr. and Mrs. Hubble, and last of all to Uncle Pumblechook. N.B. _I_ was
 not allowed to call him uncle, under the severest penalties.
 
 “Mrs. Joe,” said Uncle Pumblechook, a large hard-breathing middle-aged
@@ -991,7 +1026,7 @@ wine—and I have brought you, Mum, a bottle of port wine.”
 Every Christmas Day he presented himself, as a profound novelty, with
 exactly the same words, and carrying the two bottles like dumb-bells.
 Every Christmas Day, Mrs. Joe replied, as she now replied, “O, Un—cle
-Pum-ble—chook! This is kind!” Every Christmas Day, he retorted, as he
+Pum-ble—chook! This _is_ kind!” Every Christmas Day, he retorted, as he
 now retorted, “It’s no more than your merits. And now are you all
 bobbish, and how’s Sixpennorth of halfpence?” meaning me.
 
@@ -1048,7 +1083,7 @@ half a pint.
 
 A little later on in the dinner, Mr. Wopsle reviewed the sermon with
 some severity, and intimated—in the usual hypothetical case of the
-Church being “thrown open”—what kind of sermon he would have given
+Church being “thrown open”—what kind of sermon _he_ would have given
 them. After favouring them with some heads of that discourse, he
 remarked that he considered the subject of the day’s homily, ill
 chosen; which was the less excusable, he added, when there were so many
@@ -1084,7 +1119,7 @@ irritably, “but there is no girl present.”
 “Besides,” said Mr. Pumblechook, turning sharp on me, “think what
 you’ve got to be grateful for. If you’d been born a Squeaker—”
 
-“He was, if ever a child was,” said my sister, most emphatically.
+“He _was_, if ever a child was,” said my sister, most emphatically.
 
 Joe gave me some more gravy.
 
@@ -1157,8 +1192,8 @@ and apparently out of his mind.
 I held on tight, while Mrs. Joe and Joe ran to him. I didn’t know how I
 had done it, but I had no doubt I had murdered him somehow. In my
 dreadful situation, it was a relief when he was brought back, and
-surveying the company all round as if they had disagreed with him, sank
-down into his chair with the one significant gasp, “Tar!”
+surveying the company all round as if _they_ had disagreed with him,
+sank down into his chair with the one significant gasp, “Tar!”
 
 I had filled up the bottle from the tar-water jug. I knew he would be
 worse by and by. I moved the table, like a Medium of the present day,
@@ -1215,7 +1250,12 @@ But I ran no farther than the house door, for there I ran head-foremost
 into a party of soldiers with their muskets, one of whom held out a
 pair of handcuffs to me, saying, “Here you are, look sharp, come on!”
 
+
+
+
 Chapter V.
+
+
 The apparition of a file of soldiers ringing down the but-ends of their
 loaded muskets on our door-step, caused the dinner-party to rise from
 table in confusion, and caused Mrs. Joe re-entering the kitchen
@@ -1232,7 +1272,7 @@ right hand, and his left on my shoulder.
 mentioned at the door to this smart young shaver,” (which he hadn’t),
 “I am on a chase in the name of the king, and I want the blacksmith.”
 
-“And pray what might you want with him?” retorted my sister, quick to
+“And pray what might you want with _him_?” retorted my sister, quick to
 resent his being wanted at all.
 
 “Missis,” returned the gallant sergeant, “speaking for myself, I should
@@ -1313,7 +1353,7 @@ mouthful and smacked his lips.
 “Good stuff, eh, sergeant?” said Mr. Pumblechook.
 
 “I’ll tell you something,” returned the sergeant; “I suspect that
-stuff’s of your providing.”
+stuff’s of _your_ providing.”
 
 Mr. Pumblechook, with a fat sort of laugh, said, “Ay, ay? Why?”
 
@@ -1461,8 +1501,8 @@ the other one. Both were bleeding and panting and execrating and
 struggling; but of course I knew them both directly.
 
 “Mind!” said my convict, wiping blood from his face with his ragged
-sleeves, and shaking torn hair from his fingers: “I took him! I give
-him up to you! Mind that!”
+sleeves, and shaking torn hair from his fingers: “_I_ took him! _I_
+give him up to you! Mind that!”
 
 “It’s not much to be particular about,” said the sergeant; “it’ll do
 you small good, my man, being in the same plight yourself. Handcuffs
@@ -1494,12 +1534,12 @@ witness.”
 “Lookee here!” said my convict to the sergeant. “Single-handed I got
 clear of the prison-ship; I made a dash and I done it. I could ha’ got
 clear of these death-cold flats likewise—look at my leg: you won’t find
-much iron on it—if I hadn’t made the discovery that he was here. Let
-him go free? Let him profit by the means as I found out? Let him make a
-tool of me afresh and again? Once more? No, no, no. If I had died at
-the bottom there,” and he made an emphatic swing at the ditch with his
-manacled hands, “I’d have held to him with that grip, that you should
-have been safe to find him in my hold.”
+much iron on it—if I hadn’t made the discovery that _he_ was here. Let
+_him_ go free? Let _him_ profit by the means as I found out? Let _him_
+make a tool of me afresh and again? Once more? No, no, no. If I had
+died at the bottom there,” and he made an emphatic swing at the ditch
+with his manacled hands, “I’d have held to him with that grip, that you
+should have been safe to find him in my hold.”
 
 The other fugitive, who was evidently in extreme horror of his
 companion, repeated, “He tried to murder me. I should have been a dead
@@ -1598,7 +1638,7 @@ here. You’ll have opportunity enough to say about it, and hear about
 it, before it’s done with, you know.”
 
 “I know, but this is another pint, a separate matter. A man can’t
-starve; at least I can’t. I took some wittles, up at the willage over
+starve; at least _I_ can’t. I took some wittles, up at the willage over
 yonder,—where the church stands a’most out on the marshes.”
 
 “You mean stole,” said the sergeant.
@@ -1643,7 +1683,12 @@ saw him taken up the side and disappear. Then, the ends of the torches
 were flung hissing into the water, and went out, as if it were all over
 with him.
 
+
+
+
 Chapter VI.
+
+
 My state of mind regarding the pilfering from which I had been so
 unexpectedly exonerated did not impel me to frank disclosure; but I
 hope it had some dregs of good at the bottom of it.
@@ -1710,7 +1755,12 @@ I have described it, began before I was up in the morning, and lasted
 long after the subject had died out, and had ceased to be mentioned
 saving on exceptional occasions.
 
+
+
+
 Chapter VII.
+
+
 At the time when I stood in the churchyard reading the family
 tombstones, I had just enough learning to be able to spell them out. My
 construction even of their simple meaning was not very correct, for I
@@ -1784,10 +1834,10 @@ long time after, and it was winter and a hard frost. With an alphabet
 on the hearth at my feet for reference, I contrived in an hour or two
 to print and smear this epistle:—
 
-“MI DEER JO i OPE U R KRWITE WELL i OPE i SHAL
-SON B HABELL 4 2 TEEDGE U JO AN THEN WE SHORL B
-SO GLODD AN WEN i M PRENGTD 2 U JO WOT LARX AN
+“MI DEER JO i OPE U R KRWITE WELL i OPE i SHAL SON B HABELL 4 2 TEEDGE
+U JO AN THEN WE SHORL B SO GLODD AN WEN i M PRENGTD 2 U JO WOT LARX AN
 BLEVE ME INF XN PIP.”
+
 
 There was no indispensable necessity for my communicating with Joe by
 letter, inasmuch as he sat beside me and we were alone. But I delivered
@@ -1828,14 +1878,14 @@ whole letter.
 
 “But supposing you did?”
 
-“It can’t be supposed,” said Joe. “Tho’ I’m uncommon fond of reading,
+“It _can’t_ be supposed,” said Joe. “Tho’ I’m uncommon fond of reading,
 too.”
 
 “Are you, Joe?”
 
 “On-common. Give me,” said Joe, “a good book, or a good newspaper, and
 sit me down afore a good fire, and I ask no better. Lord!” he
-continued, after rubbing his knees a little, “when you do come to a J
+continued, after rubbing his knees a little, “when you _do_ come to a J
 and a O, and says you, ‘Here, at last, is a J-O, Joe,’ how interesting
 reading is!”
 
@@ -1886,7 +1936,7 @@ I saw that, and said so.
 
 “Consequence, my father didn’t make objections to my going to work; so
 I went to work at my present calling, which were his too, if he would
-have followed it, and I worked tolerable hard, I assure you, Pip. In
+have followed it, and I worked tolerable hard, I assure _you_, Pip. In
 time I were able to keep him, and I kep him till he went off in a
 purple leptic fit. And it were my intentions to have had put upon his
 tombstone that, Whatsume’er the failings on his part, Remember reader
@@ -1898,11 +1948,11 @@ perspicuity, that I asked him if he had made it himself.
 “I made it,” said Joe, “my own self. I made it in a moment. It was like
 striking out a horseshoe complete, in a single blow. I never was so
 much surprised in all my life,—couldn’t credit my own ed,—to tell you
-the truth, hardly believed it were my own ed. As I was saying, Pip, it
-were my intentions to have had it cut over him; but poetry costs money,
-cut it how you will, small or large, and it were not done. Not to
-mention bearers, all the money that could be spared were wanted for my
-mother. She were in poor elth, and quite broke. She weren’t long of
+the truth, hardly believed it _were_ my own ed. As I was saying, Pip,
+it were my intentions to have had it cut over him; but poetry costs
+money, cut it how you will, small or large, and it were not done. Not
+to mention bearers, all the money that could be spared were wanted for
+my mother. She were in poor elth, and quite broke. She weren’t long of
 following, poor soul, and her share of peace come round at last.”
 
 Joe’s blue eyes turned a little watery; he rubbed first one of them,
@@ -1923,9 +1973,9 @@ poker after every word following, “a-fine-figure—of—a—woman!”
 I could think of nothing better to say than “I am glad you think so,
 Joe.”
 
-“So am I,” returned Joe, catching me up. “I am glad I think so, Pip. A
-little redness or a little matter of Bone, here or there, what does it
-signify to Me?”
+“So am I,” returned Joe, catching me up. “_I_ am glad I think so, Pip.
+A little redness or a little matter of Bone, here or there, what does
+it signify to Me?”
 
 I sagaciously observed, if it didn’t signify to him, to whom did it
 signify?
@@ -1944,7 +1994,7 @@ Not exactly relishing this, I said, “Never mind me, Joe.”
 offered to your sister to keep company, and to be asked in church at
 such times as she was willing and ready to come to the forge, I said to
 her, ‘And bring the poor little child. God bless the poor little
-child,’ I said to your sister, ‘there’s room for him at the forge!’”
+child,’ I said to your sister, ‘there’s room for _him_ at the forge!’”
 
 I broke out crying and begging pardon, and hugged Joe round the neck:
 who dropped the poker to hug me, and to say, “Ever the best of friends;
@@ -2067,10 +2117,10 @@ But I have my fears.”
 better.”
 
 She? I looked at Joe, making the motion with my lips and eyebrows,
-“She?” Joe looked at me, making the motion with his lips and eyebrows,
-“She?” My sister catching him in the act, he drew the back of his hand
-across his nose with his usual conciliatory air on such occasions, and
-looked at her.
+“She?” Joe looked at me, making the motion with _his_ lips and
+eyebrows, “She?” My sister catching him in the act, he drew the back of
+his hand across his nose with his usual conciliatory air on such
+occasions, and looked at her.
 
 “Well?” said my sister, in her snappish way. “What are you staring at?
 Is the house afire?”
@@ -2119,16 +2169,16 @@ Good indeed! Now Joseph, you know the case.”
 “No, Joseph,” said my sister, still in a reproachful manner, while Joe
 apologetically drew the back of his hand across and across his nose,
 “you do not yet—though you may not think it—know the case. You may
-consider that you do, but you do not, Joseph. For you do not know that
-Uncle Pumblechook, being sensible that for anything we can tell, this
-boy’s fortune may be made by his going to Miss Havisham’s, has offered
-to take him into town to-night in his own chaise-cart, and to keep him
-to-night, and to take him with his own hands to Miss Havisham’s
-to-morrow morning. And Lor-a-mussy me!” cried my sister, casting off
-her bonnet in sudden desperation, “here I stand talking to mere
-Mooncalfs, with Uncle Pumblechook waiting, and the mare catching cold
-at the door, and the boy grimed with crock and dirt from the hair of
-his head to the sole of his foot!”
+consider that you do, but you do _not_, Joseph. For you do not know
+that Uncle Pumblechook, being sensible that for anything we can tell,
+this boy’s fortune may be made by his going to Miss Havisham’s, has
+offered to take him into town to-night in his own chaise-cart, and to
+keep him to-night, and to take him with his own hands to Miss
+Havisham’s to-morrow morning. And Lor-a-mussy me!” cried my sister,
+casting off her bonnet in sudden desperation, “here I stand talking to
+mere Mooncalfs, with Uncle Pumblechook waiting, and the mare catching
+cold at the door, and the boy grimed with crock and dirt from the hair
+of his head to the sole of his foot!”
 
 With that, she pounced upon me, like an eagle on a lamb, and my face
 was squeezed into wooden bowls in sinks, and my head was put under taps
@@ -2156,7 +2206,12 @@ they twinkled out one by one, without throwing any light on the
 questions why on earth I was going to play at Miss Havisham’s, and what
 on earth I was expected to play at.
 
+
+
+
 Chapter VIII.
+
+
 Mr. Pumblechook’s premises in the High Street of the market town, were
 of a peppercorny and farinaceous character, as the premises of a
 cornchandler and seedsman should be. It appeared to me that he must be
@@ -2177,11 +2232,11 @@ corduroys, so much in the nature of seeds, and a general air and
 flavour about the seeds, so much in the nature of corduroys, that I
 hardly knew which was which. The same opportunity served me for
 noticing that Mr. Pumblechook appeared to conduct his business by
-looking across the street at the saddler, who appeared to transact his
-business by keeping his eye on the coachmaker, who appeared to get on
-in life by putting his hands in his pockets and contemplating the
-baker, who in his turn folded his arms and stared at the grocer, who
-stood at his door and yawned at the chemist. The watchmaker, always
+looking across the street at the saddler, who appeared to transact
+_his_ business by keeping his eye on the coachmaker, who appeared to
+get on in life by putting his hands in his pockets and contemplating
+the baker, who in his turn folded his arms and stared at the grocer,
+who stood at his door and yawned at the chemist. The watchmaker, always
 poring over a little desk with a magnifying-glass at his eye, and
 always inspected by a group of smock-frocks poring over him through the
 glass of his shop-window, seemed to be about the only person in the
@@ -2197,9 +2252,9 @@ combination with as little butter, and putting such a quantity of warm
 water into my milk that it would have been more candid to have left the
 milk out altogether,—his conversation consisted of nothing but
 arithmetic. On my politely bidding him Good-morning, he said,
-pompously, “Seven times nine, boy?” And how should I be able to answer,
-dodged in that way, in a strange place, on an empty stomach! I was
-hungry, but before I had swallowed a morsel, he began a running sum
+pompously, “Seven times nine, boy?” And how should _I_ be able to
+answer, dodged in that way, in a strange place, on an empty stomach! I
+was hungry, but before I had swallowed a morsel, he began a running sum
 that lasted all through the breakfast. “Seven?” “And four?” “And
 eight?” “And six?” “And two?” “And ten?” And so on. And after each
 figure was disposed of, it was as much as I could do to get a bite or a
@@ -2242,11 +2297,11 @@ discomfited.
 
 She said it so finally, and in such an undiscussible way, that Mr.
 Pumblechook, though in a condition of ruffled dignity, could not
-protest. But he eyed me severely,—as if I had done anything to him!—and
-departed with the words reproachfully delivered: “Boy! Let your
-behaviour here be a credit unto them which brought you up by hand!” I
-was not free from apprehension that he would come back to propound
-through the gate, “And sixteen?” But he didn’t.
+protest. But he eyed me severely,—as if _I_ had done anything to
+him!—and departed with the words reproachfully delivered: “Boy! Let
+your behaviour here be a credit unto them which brought you up by
+hand!” I was not free from apprehension that he would come back to
+propound through the gate, “And sixteen?” But he didn’t.
 
 My young conductress locked the gate, and we went across the courtyard.
 It was paved and clean, but grass was growing in every crevice. The
@@ -2620,9 +2675,9 @@ house, and that it was overgrown with tangled weeds, but that there was
 a track upon the green and yellow paths, as if some one sometimes
 walked there, and that Estella was walking away from me even then. But
 she seemed to be everywhere. For when I yielded to the temptation
-presented by the casks, and began to walk on them, I saw her walking on
-them at the end of the yard of casks. She had her back towards me, and
-held her pretty brown hair spread out in her two hands, and never
+presented by the casks, and began to walk on them, I saw _her_ walking
+on them at the end of the yard of casks. She had her back towards me,
+and held her pretty brown hair spread out in her two hands, and never
 looked round, and passed out of my view directly. So, in the brewery
 itself,—by which I mean the large paved lofty place in which they used
 to make the beer, and where the brewing utensils still were. When I
@@ -2676,7 +2731,12 @@ calling knaves Jacks; that I was much more ignorant than I had
 considered myself last night, and generally that I was in a low-lived
 bad way.
 
+
+
+
 Chapter IX.
+
+
 When I reached home, my sister was very curious to know all about Miss
 Havisham’s, and asked a number of questions. And I soon found myself
 getting heavily bumped from behind in the nape of the neck and the
@@ -2730,9 +2790,9 @@ finding them against me, went as near the answer as I could—which was
 somewhere about eightpence off. Mr. Pumblechook then put me through my
 pence-table from “twelve pence make one shilling,” up to “forty pence
 make three and fourpence,” and then triumphantly demanded, as if he had
-done for me, “Now! How much is forty-three pence?” To which I replied,
-after a long interval of reflection, “I don’t know.” And I was so
-aggravated that I almost doubt if I did know.
+done for me, “_Now!_ How much is forty-three pence?” To which I
+replied, after a long interval of reflection, “I don’t know.” And I was
+so aggravated that I almost doubt if I did know.
 
 Mr. Pumblechook worked his head like a screw to screw it out of me, and
 said, “Is forty-three pence seven and sixpence three fardens, for
@@ -2785,7 +2845,7 @@ Mr. Pumblechook and Mrs. Joe stared at one another again, in utter
 amazement. I was perfectly frantic,—a reckless witness under the
 torture,—and would have told them anything.
 
-“Where was this coach, in the name of gracious?” asked my sister.
+“Where _was_ this coach, in the name of gracious?” asked my sister.
 
 “In Miss Havisham’s room.” They stared again. “But there weren’t any
 horses to it.” I added this saving clause, in the moment of rejecting
@@ -2808,7 +2868,7 @@ her in my life? Never clapped eyes upon her!”
 “Why, don’t you know,” said Mr. Pumblechook, testily, “that when I have
 been there, I have been took up to the outside of her door, and the
 door has stood ajar, and she has spoke to me that way. Don’t say you
-don’t know that, Mum. Howsever, the boy went there to play. What did
+don’t know _that_, Mum. Howsever, the boy went there to play. What did
 you play at, boy?”
 
 “We played with flags,” I said. (I beg to observe that I think of
@@ -2918,9 +2978,9 @@ metaphysics, and by that means vanquished it.
 “There’s one thing you may be sure of, Pip,” said Joe, after some
 rumination, “namely, that lies is lies. Howsever they come, they didn’t
 ought to come, and they come from the father of lies, and work round to
-the same. Don’t you tell no more of ’em, Pip. That ain’t the way to get
-out of being common, old chap. And as to being common, I don’t make it
-out at all clear. You are oncommon in some things. You’re oncommon
+the same. Don’t you tell no more of ’em, Pip. _That_ ain’t the way to
+get out of being common, old chap. And as to being common, I don’t make
+it out at all clear. You are oncommon in some things. You’re oncommon
 small. Likewise you’re a oncommon scholar.”
 
 “No, I am ignorant and backward, Joe.”
@@ -2938,7 +2998,7 @@ his throne, with his crown upon his ed, can’t sit and write his acts of
 Parliament in print, without having begun, when he were a unpromoted
 Prince, with the alphabet.—Ah!” added Joe, with a shake of the head
 that was full of meaning, “and begun at A too, and worked his way to Z.
-And I know what that is to do, though I can’t say I’ve exactly done
+And _I_ know what that is to do, though I can’t say I’ve exactly done
 it.”
 
 There was some hope in this piece of wisdom, and it rather encouraged
@@ -2987,7 +3047,12 @@ this, and think for a moment of the long chain of iron or gold, of
 thorns or flowers, that would never have bound you, but for the
 formation of the first link on one memorable day.
 
+
+
+
 Chapter X.
+
+
 The felicitous idea occurred to me a morning or two later when I woke,
 that the best step I could take towards making myself uncommon was to
 get out of Biddy everything she knew. In pursuance of this luminous
@@ -3129,7 +3194,7 @@ solitary country towards the river.”
 vagrants of any sort, out there?”
 
 “No,” said Joe; “none but a runaway convict now and then. And we don’t
-find them, easy. Eh, Mr. Wopsle?”
+find _them_, easy. Eh, Mr. Wopsle?”
 
 Mr. Wopsle, with a majestic remembrance of old discomfiture, assented;
 but not warmly.
@@ -3167,7 +3232,7 @@ discussed over pipes,—“well—no. No, he ain’t.”
 “Nevvy?” said the strange man.
 
 “Well,” said Joe, with the same appearance of profound cogitation, “he
-is not—no, not to deceive you, he is not—my nevvy.”
+is not—no, not to deceive you, he is _not_—my nevvy.”
 
 “What the Blue Blazes is he?” asked the stranger. Which appeared to me
 to be an inquiry of unnecessary strength.
@@ -3198,8 +3263,8 @@ shot, and a most extraordinary shot it was.
 It was not a verbal remark, but a proceeding in dumb-show, and was
 pointedly addressed to me. He stirred his rum and water pointedly at
 me, and he tasted his rum and water pointedly at me. And he stirred it
-and he tasted it; not with a spoon that was brought to him, but with a
-file.
+and he tasted it; not with a spoon that was brought to him, but _with a
+file_.
 
 He did this so that nobody but I saw the file; and when he had done it
 he wiped the file and put it in a breast-pocket. I knew it to be Joe’s
@@ -3268,7 +3333,12 @@ myself to sleep by thinking of Miss Havisham’s, next Wednesday; and in
 my sleep I saw the file coming at me out of a door, without seeing who
 held it, and I screamed myself awake.
 
+
+
+
 Chapter XI.
+
+
 At the appointed time I returned to Miss Havisham’s, and my hesitating
 ring at the gate brought out Estella. She locked it after admitting me,
 as she had done before, and again preceded me into the dark passage
@@ -3341,7 +3411,7 @@ neighbour, who is?”
 Miss Pocket laughed, and Camilla laughed and said (checking a yawn),
 “The idea!” But I thought they seemed to think it rather a good idea
 too. The other lady, who had not spoken yet, said gravely and
-emphatically, “Very true!”
+emphatically, “_Very_ true!”
 
 “Poor soul!” Camilla presently went on (I knew they had all been
 looking at me in the mean time), “he is so very strange! Would anyone
@@ -3363,10 +3433,10 @@ in his violent way, and said, with a D, ‘Then do as you like.’ Thank
 Goodness it will always be a consolation to me to know that I instantly
 went out in a pouring rain and bought the things.”
 
-“He paid for them, did he not?” asked Estella.
+“_He_ paid for them, did he not?” asked Estella.
 
 “It’s not the question, my dear child, who paid for them,” returned
-Camilla. “I bought them. And I shall often think of that with peace,
+Camilla. “_I_ bought them. And I shall often think of that with peace,
 when I wake up in the night.”
 
 The ringing of a distant bell, combined with the echoing of some cry or
@@ -3374,7 +3444,7 @@ call along the passage by which I had come, interrupted the
 conversation and caused Estella to say to me, “Now, boy!” On my turning
 round, they all looked at me with the utmost contempt, and, as I went
 out, I heard Sarah Pocket say, “Well I am sure! What next!” and Camilla
-add, with indignation, “Was there ever such a fancy! The i-de-a!”
+add, with indignation, “Was there ever such a fancy! The i-d_e_-a!”
 
 As we were going with our candle along the dark passage, Estella
 stopped all of a sudden, and, facing round, said in her taunting
@@ -3439,7 +3509,7 @@ this opportunity of observing him well.
 
 “Yes, sir,” said I.
 
-“How do you come here?”
+“How do _you_ come here?”
 
 “Miss Havisham sent for me, sir,” I explained.
 
@@ -3559,7 +3629,7 @@ Camilla brightened when Miss Pocket met with this rebuff; and she
 murmured, as she plaintively contemplated Miss Havisham, “Poor dear
 soul! Certainly not to be expected to look well, poor thing. The idea!”
 
-“And how are you?” said Miss Havisham to Camilla. As we were close to
+“And how are _you_?” said Miss Havisham to Camilla. As we were close to
 Camilla then, I would have stopped as a matter of course, only Miss
 Havisham wouldn’t stop. We swept on, and I felt that I was highly
 obnoxious to Camilla.
@@ -3691,7 +3761,7 @@ I was going to wish her many happy returns, when she lifted her stick.
 just now, or any one to speak of it. They come here on the day, but
 they dare not refer to it.”
 
-Of course I made no further effort to refer to it.
+Of course _I_ made no further effort to refer to it.
 
 “On this day of the year, long before you were born, this heap of
 decay,” stabbing with her crutched stick at the pile of cobwebs on the
@@ -3755,10 +3825,10 @@ and I now saw that he was inky.
 “Halloa!” said he, “young fellow!”
 
 Halloa being a general observation which I had usually observed to be
-best answered by itself, I said, “Halloa!” politely omitting young
+best answered by itself, _I_ said, “Halloa!” politely omitting young
 fellow.
 
-“Who let you in?” said he.
+“Who let _you_ in?” said he.
 
 “Miss Estella.”
 
@@ -3845,7 +3915,7 @@ contest, I felt but a gloomy satisfaction in my victory. Indeed, I go
 so far as to hope that I regarded myself while dressing as a species of
 savage young wolf or other wild beast. However, I got dressed, darkly
 wiping my sanguinary face at intervals, and I said, “Can I help you?”
-and he said “No thankee,” and I said “Good afternoon,” and he said
+and he said “No thankee,” and I said “Good afternoon,” and _he_ said
 “Same to you.”
 
 When I got into the courtyard, I found Estella waiting with the keys.
@@ -3867,7 +3937,12 @@ light on the spit of sand off the point on the marshes was gleaming
 against a black night-sky, and Joe’s furnace was flinging a path of
 fire across the road.
 
+
+
+
 Chapter XII.
+
+
 My mind grew very uneasy on the subject of the pale young gentleman.
 The more I thought of the fight, and recalled the pale young gentleman
 on his back in various stages of puffy and incrimsoned countenance, the
@@ -3896,10 +3971,10 @@ grave-clothes of hers, draw a pistol, and shoot me dead:—whether
 suborned boys—a numerous band of mercenaries—might be engaged to fall
 upon me in the brewery, and cuff me until I was no more;—it was high
 testimony to my confidence in the spirit of the pale young gentleman,
-that I never imagined him accessory to these retaliations; they always
-came into my mind as the acts of injudicious relatives of his, goaded
-on by the state of his visage and an indignant sympathy with the family
-features.
+that I never imagined _him_ accessory to these retaliations; they
+always came into my mind as the acts of injudicious relatives of his,
+goaded on by the state of his visage and an indignant sympathy with the
+family features.
 
 However, go to Miss Havisham’s I must, and go I did. And behold!
 nothing came of the late struggle. It was not alluded to in any way,
@@ -4024,7 +4099,7 @@ of his hands, shake him, and put it away. There was a most irritating
 end to every one of these debates. All in a moment, with nothing to
 lead up to it, my sister would stop herself in a yawn, and catching
 sight of me as it were incidentally, would swoop upon me with, “Come!
-there’s enough of you! You get along to bed; you’ve given trouble
+there’s enough of _you_! _You_ get along to bed; _you_’ve given trouble
 enough for one night, I hope!” As if I had besought them as a favour to
 bother my life out.
 
@@ -4070,8 +4145,8 @@ When I got home at night, and delivered this message for Joe, my sister
 “went on the Rampage,” in a more alarming degree than at any previous
 period. She asked me and Joe whether we supposed she was door-mats
 under our feet, and how we dared to use her so, and what company we
-graciously thought she was fit for? When she had exhausted a torrent of
-such inquiries, she threw a candlestick at Joe, burst into a loud
+graciously thought she _was_ fit for? When she had exhausted a torrent
+of such inquiries, she threw a candlestick at Joe, burst into a loud
 sobbing, got out the dustpan,—which was always a very bad sign,—put on
 her coarse apron, and began cleaning up to a terrible extent. Not
 satisfied with a dry cleaning, she took to a pail and scrubbing-brush,
@@ -4082,7 +4157,12 @@ once? Joe offered no answer, poor fellow, but stood feeling his whisker
 and looking dejectedly at me, as if he thought it really might have
 been a better speculation.
 
+
+
+
 Chapter XIII.
+
+
 It was a trial to my feelings, on the next day but one, to see Joe
 arraying himself in his Sunday clothes to accompany me to Miss
 Havisham’s. However, as he thought his court-suit necessary to the
@@ -4175,7 +4255,7 @@ persisted in being to Me.
 unreasonable, “you yourself see me put ’em in my ’at, and therefore you
 know as they are here.” With which he took them out, and gave them, not
 to Miss Havisham, but to me. I am afraid I was ashamed of the dear good
-fellow,—I know I was ashamed of him,—when I saw that Estella stood at
+fellow,—I _know_ I was ashamed of him,—when I saw that Estella stood at
 the back of Miss Havisham’s chair, and that her eyes laughed
 mischievously. I took the indentures out of his hand and gave them to
 Miss Havisham.
@@ -4234,9 +4314,9 @@ gate, and it was locked, and Estella was gone. When we stood in the
 daylight alone again, Joe backed up against a wall, and said to me,
 “Astonishing!” And there he remained so long saying, “Astonishing” at
 intervals, so often, that I began to think his senses were never coming
-back. At length he prolonged his remark into “Pip, I do assure you this
-is as-TON-ishing!” and so, by degrees, became conversational and able
-to walk away.
+back. At length he prolonged his remark into “Pip, I do assure _you_
+this is as-TON-ishing!” and so, by degrees, became conversational and
+able to walk away.
 
 I have reason to think that Joe’s intellects were brightened by the
 encounter they had passed through, and that on our way to Pumblechook’s
@@ -4245,7 +4325,7 @@ took place in Mr. Pumblechook’s parlour: where, on our presenting
 ourselves, my sister sat in conference with that detested seedsman.
 
 “Well?” cried my sister, addressing us both at once. “And what’s
-happened to you? I wonder you condescend to come back to such poor
+happened to _you_? I wonder you condescend to come back to such poor
 society as this, I am sure I do!”
 
 “Miss Havisham,” said Joe, with a fixed look at me, like an effort of
@@ -4330,8 +4410,8 @@ far behind.
 
 “Now you see, Joseph and wife,” said Pumblechook, as he took me by the
 arm above the elbow, “I am one of them that always go right through
-with what they’ve begun. This boy must be bound, out of hand. That’s my
-way. Bound out of hand.”
+with what they’ve begun. This boy must be bound, out of hand. That’s
+_my_ way. Bound out of hand.”
 
 “Goodness knows, Uncle Pumblechook,” said my sister (grasping the
 money), “we’re deeply beholden to you.”
@@ -4377,7 +4457,7 @@ inscrutably appeared to stand to reason, in the minds of the whole
 company, that I was an excrescence on the entertainment. And to make it
 worse, they all asked me from time to time,—in short, whenever they had
 nothing else to do,—why I didn’t enjoy myself? And what could I
-possibly do then, but say I was enjoying myself,—when I wasn’t!
+possibly do then, but say I _was_ enjoying myself,—when I wasn’t!
 
 However, they were grown up and had their own way, and they made the
 most of it. That swindling Pumblechook, exalted into the beneficent
@@ -4399,15 +4479,20 @@ wasn’t the Tumblers’ Arms.” That, they were all in excellent spirits on
 the road home, and sang, O Lady Fair! Mr. Wopsle taking the bass, and
 asserting with a tremendously strong voice (in reply to the inquisitive
 bore who leads that piece of music in a most impertinent manner, by
-wanting to know all about everybody’s private affairs) that he was the
-man with his white locks flowing, and that he was upon the whole the
-weakest pilgrim going.
+wanting to know all about everybody’s private affairs) that _he_ was
+the man with his white locks flowing, and that he was upon the whole
+the weakest pilgrim going.
 
 Finally, I remember that when I got into my little bedroom, I was truly
 wretched, and had a strong conviction on me that I should never like
 Joe’s trade. I had liked it once, but once was not now.
 
+
+
+
 Chapter XIV.
+
+
 It is a most miserable thing to feel ashamed of home. There may be
 black ingratitude in the thing, and the punishment may be retributive
 and well deserved; but that it is a miserable thing, I can testify.
@@ -4447,7 +4532,7 @@ between them by thinking how flat and low both were, and how on both
 there came an unknown way and a dark mist and then the sea. I was quite
 as dejected on the first working-day of my apprenticeship as in that
 after-time; but I am glad to know that I never breathed a murmur to Joe
-while my indentures lasted. It is about the only thing I am glad to
+while my indentures lasted. It is about the only thing I _am_ glad to
 know of myself in that connection.
 
 For, though it includes what I proceed to add, all the merit of what I
@@ -4462,7 +4547,7 @@ has touched one’s self in going by, and I know right well that any good
 that intermixed itself with my apprenticeship came of plain contented
 Joe, and not of restlessly aspiring discontented me.
 
-What I wanted, who can say? How can I say, when I never knew? What I
+What I wanted, who can say? How can _I_ say, when I never knew? What I
 dreaded was, that in some unlucky hour I, being at my grimiest and
 commonest, should lift up my eyes and see Estella looking in at one of
 the wooden windows of the forge. I was haunted by the fear that she
@@ -4481,7 +4566,12 @@ After that, when we went in to supper, the place and the meal would
 have a more homely look than ever, and I would feel more ashamed of
 home than ever, in my own ungracious breast.
 
+
+
+
 Chapter XV.
+
+
 As I was getting too big for Mr. Wopsle’s great-aunt’s room, my
 education under that preposterous female terminated. Not, however,
 until Biddy had imparted to me everything she knew, from the little
@@ -4489,12 +4579,13 @@ catalogue of prices, to a comic song she had once bought for a
 half-penny. Although the only coherent part of the latter piece of
 literature were the opening lines,
 
-When I went to Lunnon town sirs,
-Too rul loo rul
-Too rul loo rul
-Wasn’t I done very brown sirs?
-Too rul loo rul
-Too rul loo rul
+     When I went to Lunnon town sirs,
+     Too rul loo rul
+     Too rul loo rul
+     Wasn’t I done very brown sirs?
+     Too rul loo rul
+     Too rul loo rul
+
 
 —still, in my desire to be wiser, I got this composition by heart with
 the utmost gravity; nor do I recollect that I questioned its merit,
@@ -4601,7 +4692,7 @@ like—”
 “I don’t mean any present at all, Joe,” I interposed.
 
 “Well,” said Joe, still harping on it as though I had particularly
-pressed it, “if I was yourself, Pip, I wouldn’t. No, I would not. For
+pressed it, “if I was yourself, Pip, I wouldn’t. No, I would _not_. For
 what’s a door-chain when she’s got one always up? And shark-headers is
 open to misrepresentations. And if it was a toasting-fork, you’d go
 into brass and do yourself no credit. And the oncommonest workman can’t
@@ -4679,12 +4770,12 @@ ancient person.
 
 “Why, what’ll you do with a half-holiday, if you get it?” said Joe.
 
-“What’ll I do with it! What’ll he do with it? I’ll do as much with it
-as him,” said Orlick.
+“What’ll _I_ do with it! What’ll _he_ do with it? I’ll do as much with
+it as _him_,” said Orlick.
 
 “As to Pip, he’s going up town,” said Joe.
 
-“Well then, as to Old Orlick, he’s a-going up town,” retorted that
+“Well then, as to Old Orlick, _he_’s a-going up town,” retorted that
 worthy. “Two can go up town. Tain’t only one wot can go up town.
 
 “Don’t lose your temper,” said Joe.
@@ -4715,7 +4806,7 @@ one of the windows.
 
 “Like you, you fool!” said she to Joe, “giving holidays to great idle
 hulkers like that. You are a rich man, upon my life, to waste wages in
-that way. I wish I was his master!”
+that way. I wish _I_ was his master!”
 
 “You’d be everybody’s master, if you durst,” retorted Orlick, with an
 ill-favoured grin.
@@ -4830,7 +4921,7 @@ loss what to say. She spared me the trouble of considering, by
 dismissing me. When the gate was closed upon me by Sarah of the
 walnut-shell countenance, I felt more than ever dissatisfied with my
 home and with my trade and with everything; and that was all I took by
-that motion.
+_that_ motion.
 
 As I was loitering along the High Street, looking in disconsolately at
 the shop windows, and thinking what I would buy if I were a gentleman,
@@ -4885,7 +4976,7 @@ chance of company.”
 
 “You are late,” I remarked.
 
-Orlick not unnaturally answered, “Well? And you’re late.”
+Orlick not unnaturally answered, “Well? And _you_’re late.”
 
 “We have been,” said Mr. Wopsle, exalted with his late performance,—“we
 have been indulging, Mr. Orlick, in an intellectual evening.”
@@ -4951,10 +5042,15 @@ the back of the head, dealt by some unknown hand when her face was
 turned towards the fire,—destined never to be on the Rampage again,
 while she was the wife of Joe.
 
+
+
+
 Chapter XVI.
+
+
 With my head full of George Barnwell, I was at first disposed to
-believe that I must have had some hand in the attack upon my sister, or
-at all events that as her near relation, popularly known to be under
+believe that _I_ must have had some hand in the attack upon my sister,
+or at all events that as her near relation, popularly known to be under
 obligations to her, I was a more legitimate object of suspicion than
 any one else. But when, in the clearer light of next morning, I began
 to reconsider the matter and to hear it discussed around me on all
@@ -5107,7 +5203,7 @@ thoughtfully at Joe (who was always represented on the slate by his
 initial letter), and ran into the forge, followed by Joe and me.
 
 “Why, of course!” cried Biddy, with an exultant face. “Don’t you see?
-It’s him!”
+It’s _him_!”
 
 Orlick, without a doubt! She had lost his name, and could only signify
 him by his hammer. We told him why we wanted him to come into the
@@ -5129,8 +5225,13 @@ day, a day rarely passed without her drawing the hammer on her slate,
 and without Orlick’s slouching in and standing doggedly before her, as
 if he knew no more than I did what to make of it.
 
+
+
+
 Chapter XVII.
-Inow fell into a regular routine of apprenticeship life, which was
+
+
+I now fell into a regular routine of apprenticeship life, which was
 varied beyond the limits of the village and the marshes, by no more
 remarkable circumstance than the arrival of my birthday and my paying
 another visit to Miss Havisham. I found Miss Sarah Pocket still on duty
@@ -5181,7 +5282,7 @@ knowledge, for I spent my birthday guineas on it, and set aside the
 greater part of my pocket-money for similar investment; though I have
 no doubt, now, that the little I knew was extremely dear at the price.
 
-“I might as well ask you,” said Biddy, “how you manage?”
+“I might as well ask you,” said Biddy, “how _you_ manage?”
 
 “No; because when I come in from the forge of a night, any one can see
 me turning to at it. But you never turn to at it, Biddy.”
@@ -5288,7 +5389,7 @@ would have wanted nothing then, and Joe and I would perhaps have gone
 partners when I was out of my time, and I might even have grown up to
 keep company with you, and we might have sat on this very bank on a
 fine Sunday, quite different people. I should have been good enough for
-you; shouldn’t I, Biddy?”
+_you_; shouldn’t I, Biddy?”
 
 Biddy sighed as she looked at the ships sailing on, and returned for
 answer, “Yes; I am not over-particular.” It scarcely sounded
@@ -5401,15 +5502,16 @@ speaking so openly to such an old acquaintance?”
 
 “Oh dear, not at all!” said Biddy. “Don’t mind me.”
 
-“If I could only get myself to do it, that would be the thing for me.”
+“If I could only get myself to do it, _that_ would be the thing for
+me.”
 
 “But you never will, you see,” said Biddy.
 
 It did not appear quite so unlikely to me that evening, as it would
 have done if we had discussed it a few hours before. I therefore
-observed I was not quite sure of that. But Biddy said she was, and she
-said it decisively. In my heart I believed her to be right; and yet I
-took it rather ill, too, that she should be so positive on the point.
+observed I was not quite sure of that. But Biddy said she _was_, and
+she said it decisively. In my heart I believed her to be right; and yet
+I took it rather ill, too, that she should be so positive on the point.
 
 When we came near the churchyard, we had to cross an embankment, and
 get over a stile near a sluice-gate. There started up, from the gate,
@@ -5458,7 +5560,8 @@ myself.
 “No, Biddy, it makes no difference to me; only I don’t like it; I don’t
 approve of it.”
 
-“Nor I neither,” said Biddy. “Though that makes no difference to you.”
+“Nor I neither,” said Biddy. “Though _that_ makes no difference to
+you.”
 
 “Exactly,” said I; “but I must tell you I should have no opinion of
 you, Biddy, if he danced at you with your own consent.”
@@ -5489,7 +5592,12 @@ If my time had run out, it would have left me still at the height of my
 perplexities, I dare say. It never did run out, however, but was
 brought to a premature end, as I proceed to relate.
 
+
+
+
 Chapter XVIII.
+
+
 It was in the fourth year of my apprenticeship to Joe, and it was a
 Saturday night. There was a group assembled round the fire at the Three
 Jolly Bargemen, attentive to Mr. Wopsle as he read the newspaper aloud.
@@ -5547,8 +5655,8 @@ Wopsle,—as it were to mark him out—before biting it again.
 
 “Certainly you know it. Then why didn’t you say so at first? Now, I’ll
 ask you another question,”—taking possession of Mr. Wopsle, as if he
-had a right to him,—“do you know that none of these witnesses have yet
-been cross-examined?”
+had a right to him,—“_do_ you know that none of these witnesses have
+yet been cross-examined?”
 
 Mr. Wopsle was beginning, “I can only say—” when the stranger stopped
 him.
@@ -5744,7 +5852,7 @@ hand by word of mouth to yourself. When or where that intention may be
 carried out, I cannot say; no one can say. It may be years hence. Now,
 you are distinctly to understand that you are most positively
 prohibited from making any inquiry on this head, or any allusion or
-reference, however distant, to any individual whomsoever as the
+reference, however distant, to any individual whomsoever as _the_
 individual, in all the communications you may have with me. If you have
 a suspicion in your own breast, keep that suspicion in your own breast.
 It is not the least to the purpose what the reasons of this prohibition
@@ -5828,8 +5936,8 @@ the word, Mr. Pip. Try another.”
 Correcting myself, I said that I was much obliged to him for his
 mention of Mr. Matthew Pocket—
 
-“That’s more like it!” cried Mr. Jaggers.—And (I added), I would gladly
-try that gentleman.
+“_That_’s more like it!” cried Mr. Jaggers.—And (I added), I would
+gladly try that gentleman.
 
 “Good. You had better try him in his own house. The way shall be
 prepared for you, and you can see his son first, who is in London. When
@@ -5849,7 +5957,7 @@ had pushed the money over, and sat swinging his purse and eyeing Joe.
 
 “Well, Joseph Gargery? You look dumbfoundered?”
 
-“I am!” said Joe, in a very decided manner.
+“I _am_!” said Joe, in a very decided manner.
 
 “It was understood that you wanted nothing for yourself, remember?”
 
@@ -6005,7 +6113,7 @@ afraid I took to be but poor and humble stars for glittering on the
 rustic objects among which I had passed my life.
 
 “Saturday night,” said I, when we sat at our supper of bread and cheese
-and beer. “Five more days, and then the day before the day! They’ll
+and beer. “Five more days, and then the day before _the_ day! They’ll
 soon go.”
 
 “Yes, Pip,” observed Joe, whose voice sounded hollow in his beer-mug.
@@ -6073,7 +6181,12 @@ obtruded on me or paraded before me, but pervading the air we shared
 together. I put my light out, and crept into bed; and it was an uneasy
 bed now, and I never slept the old sound sleep in it any more.
 
+
+
+
 Chapter XIX.
+
+
 Morning made a considerable difference in my general prospect of Life,
 and brightened it so much that it scarcely seemed the same. What lay
 heaviest on my mind was, the consideration that six days intervened
@@ -6131,10 +6244,10 @@ eyes, and said,—
 “You may be sure, dear Joe,” I went on, after we had shaken hands,
 “that I shall never forget you.”
 
-“No, no, Pip!” said Joe, in a comfortable tone, “I’m sure of that. Ay,
-ay, old chap! Bless you, it were only necessary to get it well round in
-a man’s mind, to be certain on it. But it took a bit of time to get it
-well round, the change come so oncommon plump; didn’t it?”
+“No, no, Pip!” said Joe, in a comfortable tone, “_I_’m sure of that.
+Ay, ay, old chap! Bless you, it were only necessary to get it well
+round in a man’s mind, to be certain on it. But it took a bit of time
+to get it well round, the change come so oncommon plump; didn’t it?”
 
 Somehow, I was not best pleased with Joe’s being so mightily secure of
 me. I should have liked him to have betrayed emotion, or to have said,
@@ -6181,8 +6294,8 @@ black-currant leaf.
 
 “My dear Biddy, they do very well here—”
 
-“O! they do very well here?” interrupted Biddy, looking closely at the
-leaf in her hand.
+“O! they _do_ very well here?” interrupted Biddy, looking closely at
+the leaf in her hand.
 
 “Hear me out,—but if I were to remove Joe into a higher sphere, as I
 shall hope to remove him when I fully come into my property, they would
@@ -6379,7 +6492,7 @@ Boar, here is a tongue had round from the Boar, here’s one or two
 little things had round from the Boar, that I hope you may not despise.
 But do I,” said Mr. Pumblechook, getting up again the moment after he
 had sat down, “see afore me, him as I ever sported with in his times of
-happy infancy? And may I—may I—?”
+happy infancy? And may I—_may_ I—?”
 
 This May I, meant might he shake hands? I consented, and he was
 fervent, and then sat down again.
@@ -6387,7 +6500,7 @@ fervent, and then sat down again.
 “Here is wine,” said Mr. Pumblechook. “Let us drink, Thanks to Fortune,
 and may she ever pick out her favourites with equal judgment! And yet I
 cannot,” said Mr. Pumblechook, getting up again, “see afore me One—and
-likewise drink to One—without again expressing—May I—may I—?”
+likewise drink to One—without again expressing—May I—_may_ I—?”
 
 I said he might, and he shook hands with me again, and emptied his
 glass and turned it upside down. I did the same; and if I had turned
@@ -6401,7 +6514,7 @@ poultry! You little thought,” said Mr. Pumblechook, apostrophising the
 fowl in the dish, “when you was a young fledgling, what was in store
 for you. You little thought you was to be refreshment beneath this
 humble roof for one as—Call it a weakness, if you will,” said Mr.
-Pumblechook, getting up again, “but may I? may I—?”
+Pumblechook, getting up again, “but may I? _may_ I—?”
 
 It began to be unnecessary to repeat the form of saying he might, so he
 did it at once. How he ever did it so often without wounding himself
@@ -6421,7 +6534,7 @@ Sir was, but he certainly was not I, and there was no third person
 present); “that’s the way you know the noble-minded, sir! Ever
 forgiving and ever affable. It might,” said the servile Pumblechook,
 putting down his untasted glass in a hurry and getting up again, “to a
-common person, have the appearance of repeating—but may I—?”
+common person, have the appearance of repeating—but _may_ I—?”
 
 When he had done it, he resumed his seat and drank to my sister. “Let
 us never be blind,” said Mr. Pumblechook, “to her faults of temper, but
@@ -6482,7 +6595,7 @@ stop. I stopped, and he came up breathless.
 “No, my dear friend,” said he, when he had recovered wind for speech.
 “Not if I can help it. This occasion shall not entirely pass without
 that affability on your part.—May I, as an old friend and well-wisher?
-May I?”
+_May_ I?”
 
 We shook hands for the hundredth time at least, and he ordered a young
 carter out of my way with the greatest indignation. Then, he blessed me
@@ -6547,7 +6660,7 @@ bestowing the finishing gift.
 Havisham,” I murmured. “And I am so grateful for it, Miss Havisham!”
 
 “Ay, ay!” said she, looking at the discomfited and envious Sarah, with
-delight. “I have seen Mr. Jaggers. I have heard about it, Pip. So you
+delight. “I have seen Mr. Jaggers. _I_ have heard about it, Pip. So you
 go to-morrow?”
 
 “Yes, Miss Havisham.”
@@ -6597,9 +6710,10 @@ steadily than I could look at it. As the six evenings had dwindled
 away, to five, to four, to three, to two, I had become more and more
 appreciative of the society of Joe and Biddy. On this last evening, I
 dressed myself out in my new clothes for their delight, and sat in my
-splendour until bedtime. We had a hot supper on the occasion, graced by
-the inevitable roast fowl, and we had some flip to finish with. We were
-all very low, and none the higher for pretending to be in spirits.
+splendour	 until bedtime. We had a hot supper on the occasion,
+graced by the inevitable roast fowl, and we had some flip to finish
+with. We were all very low, and none the higher for pretending to be in
+spirits.
 
 I was to leave our village at five in the morning, carrying my little
 hand-portmanteau, and I had told Joe that I wished to walk away all
@@ -6672,7 +6786,13 @@ go back, and I went on. And the mists had all solemnly risen now, and
 the world lay spread before me.
 
 THIS IS THE END OF THE FIRST STAGE OF PIP’S EXPECTATIONS.
+
+
+
+
 Chapter XX.
+
+
 The journey from our town to the metropolis was a journey of about five
 hours. It was a little past midday when the four-horse stage-coach by
 which I was a passenger, got into the ravel of traffic frayed out about
@@ -6711,8 +6831,8 @@ The coachman answered, “A shilling—unless you wish to make it more.”
 I naturally said I had no wish to make it more.
 
 “Then it must be a shilling,” observed the coachman. “I don’t want to
-get into trouble. I know him!” He darkly closed an eye at Mr. Jaggers’s
-name, and shook his head.
+get into trouble. _I_ know _him_!” He darkly closed an eye at Mr.
+Jaggers’s name, and shook his head.
 
 When he had got his shilling, and had in course of time completed the
 ascent to his box, and had got away (which appeared to relieve his
@@ -6817,15 +6937,16 @@ they first passed me, that “Jaggers would do it if it was to be done.”
 There was a knot of three men and two women standing at a corner, and
 one of the women was crying on her dirty shawl, and the other comforted
 her by saying, as she pulled her own shawl over her shoulders, “Jaggers
-is for him, ’Melia, and what more could you have?” There was a red-eyed
-little Jew who came into the Close while I was loitering there, in
-company with a second little Jew whom he sent upon an errand; and while
-the messenger was gone, I remarked this Jew, who was of a highly
-excitable temperament, performing a jig of anxiety under a lamp-post
-and accompanying himself, in a kind of frenzy, with the words, “O
-Jaggerth, Jaggerth, Jaggerth! all otherth ith Cag-Maggerth, give me
-Jaggerth!” These testimonies to the popularity of my guardian made a
-deep impression on me, and I admired and wondered more than ever.
+is for him, ’Melia, and what more _could_ you have?” There was a
+red-eyed little Jew who came into the Close while I was loitering
+there, in company with a second little Jew whom he sent upon an errand;
+and while the messenger was gone, I remarked this Jew, who was of a
+highly excitable temperament, performing a jig of anxiety under a
+lamp-post and accompanying himself, in a kind of frenzy, with the
+words, “O Jaggerth, Jaggerth, Jaggerth! all otherth ith Cag-Maggerth,
+give me Jaggerth!” These testimonies to the popularity of my guardian
+made a deep impression on me, and I admired and wondered more than
+ever.
 
 At length, as I was looking out at the iron gate of Bartholomew Close
 into Little Britain, I saw Mr. Jaggers coming across the road towards
@@ -6836,7 +6957,7 @@ himself to his followers.
 
 First, he took the two secret men.
 
-“Now, I have nothing to say to you,” said Mr. Jaggers, throwing his
+“Now, I have nothing to say to _you_,” said Mr. Jaggers, throwing his
 finger at them. “I want to know no more than I know. As to the result,
 it’s a toss-up. I told you from the first it was a toss-up. Have you
 paid Wemmick?”
@@ -6855,7 +6976,7 @@ me, I’ll throw up the case.”
 
 “We thought, Mr. Jaggers—” one of the men began, pulling off his hat.
 
-“That’s what I told you not to do,” said Mr. Jaggers. “You thought! I
+“That’s what I told you not to do,” said Mr. Jaggers. “_You_ thought! I
 think for you; that’s enough for you. If I want you, I know where to
 find you; I don’t want you to find me. Now I won’t have it. I won’t
 hear a word.”
@@ -6863,8 +6984,8 @@ hear a word.”
 The two men looked at one another as Mr. Jaggers waved them behind
 again, and humbly fell back and were heard no more.
 
-“And now you!” said Mr. Jaggers, suddenly stopping, and turning on the
-two women with the shawls, from whom the three men had meekly
+“And now _you_!” said Mr. Jaggers, suddenly stopping, and turning on
+the two women with the shawls, from whom the three men had meekly
 separated,—“Oh! Amelia, is it?”
 
 “Yes, Mr. Jaggers.”
@@ -7020,7 +7141,12 @@ among them by saying coolly yet decisively, “I tell you it’s no use; he
 won’t have a word to say to one of you;” and we soon got clear of them,
 and went on side by side.
 
+
+
+
 Chapter XXI.
+
+
 Casting my eyes on Mr. Wemmick as we went along, to see what he was
 like in the light of day, I found him to be a dry man, rather short in
 stature, with a square wooden face, whose expression seemed to have
@@ -7042,7 +7168,7 @@ them, to the best of my belief, from forty to fifty years.
 
 “No,” said I.
 
-“I was new here once,” said Mr. Wemmick. “Rum to think of now!”
+“_I_ was new here once,” said Mr. Wemmick. “Rum to think of now!”
 
 “You are well acquainted with it now?”
 
@@ -7085,7 +7211,7 @@ London.”
 “Do you know him?”
 
 “Why, you’re a regular cross-examiner!” said Mr. Wemmick, looking at me
-with an approving air. “Yes, I know him. I know him!”
+with an approving air. “Yes, I know him. _I_ know him!”
 
 There was an air of toleration or depreciation about his utterance of
 these words that rather depressed me; and I was still looking sideways
@@ -7207,7 +7333,7 @@ it, if he had. This is our sitting-room,—just such chairs and tables
 and carpet and so forth, you see, as they could spare from home. You
 mustn’t give me credit for the tablecloth and spoons and castors,
 because they come for you from the coffee-house. This is my little
-bedroom; rather musty, but Barnard’s is musty. This is your bedroom;
+bedroom; rather musty, but Barnard’s _is_ musty. This is your bedroom;
 the furniture’s hired for the occasion, but I trust it will answer the
 purpose; if you should want anything, I’ll go and fetch it. The
 chambers are retired, and we shall be alone together, but we shan’t
@@ -7223,10 +7349,15 @@ knew to be in mine, and he said, falling back,—
 
 “And you,” said I, “are the pale young gentleman!”
 
+
+
+
 Chapter XXII.
+
+
 The pale young gentleman and I stood contemplating one another in
 Barnard’s Inn, until we both burst out laughing. “The idea of its being
-you!” said he. “The idea of its being you!” said I. And then we
+you!” said he. “The idea of its being _you_!” said I. And then we
 contemplated one another afresh, and laughed again. “Well!” said the
 pale young gentleman, reaching out his hand good-humouredly, “it’s all
 over now, I hope, and it will be magnanimous in you if you’ll forgive
@@ -7241,8 +7372,8 @@ Pocket.
 
 “No,” said I.
 
-“No,” he acquiesced: “I heard it had happened very lately. I was rather
-on the lookout for good fortune then.”
+“No,” he acquiesced: “I heard it had happened very lately. _I_ was
+rather on the lookout for good fortune then.”
 
 “Indeed?”
 
@@ -7265,7 +7396,7 @@ Engaged. What’s-his-named. Any word of that sort.”
 
 “How did you bear your disappointment?” I asked.
 
-“Pooh!” said he, “I didn’t care much for it. She’s a Tartar.”
+“Pooh!” said he, “I didn’t care much for it. _She’s_ a Tartar.”
 
 “Miss Havisham?”
 
@@ -7289,7 +7420,7 @@ there, that day?”
 
 I told him, and he was attentive until I had finished, and then burst
 out laughing again, and asked me if I was sore afterwards? I didn’t ask
-him if he was, for my conviction on that point was perfectly
+him if _he_ was, for my conviction on that point was perfectly
 established.
 
 “Mr. Jaggers is your guardian, I understand?” he went on.
@@ -7424,7 +7555,7 @@ rather think.”
 “I thought he was proud,” said I.
 
 “My good Handel, so he was. He married his second wife privately,
-because he was proud, and in course of time she died. When she was
+because he was proud, and in course of time _she_ died. When she was
 dead, I apprehend he first told his daughter what he had done, and then
 the son became a part of the family, residing in the house you are
 acquainted with. As the son grew a young man, he turned out riotous,
@@ -7619,8 +7750,8 @@ if I would imply that it would be difficult to lay by much accumulative
 capital from such a source of income.
 
 “But the thing is,” said Herbert Pocket, “that you look about you.
-That’s the grand thing. You are in a counting-house, you know, and you
-look about you.”
+_That’s_ the grand thing. You are in a counting-house, you know, and
+you look about you.”
 
 It struck me as a singular implication that you couldn’t be out of a
 counting-house, you know, and look about you; but I silently deferred
@@ -7753,7 +7884,7 @@ moment, “everybody’s tumbling!”
 “Gracious you, indeed, Mum!” returned Flopson, very red in the face;
 “what have you got there?”
 
-“I got here, Flopson?” asked Mrs. Pocket.
+“_I_ got here, Flopson?” asked Mrs. Pocket.
 
 “Why, if it ain’t your footstool!” cried Flopson. “And if you keep it
 under your skirts like that, who’s to help tumbling? Here! Take the
@@ -7773,7 +7904,12 @@ find that Mr. Pocket was a gentleman with a rather perplexed expression
 of face, and with his very grey hair disordered on his head, as if he
 didn’t quite see his way to putting anything straight.
 
+
+
+
 Chapter XXIII.
+
+
 Mr. Pocket said he was glad to see me, and he hoped I was not sorry to
 see him. “For, I really am not,” he added, with his son’s smile, “an
 alarming personage.” He was a young-looking man, in spite of his
@@ -7890,7 +8026,7 @@ cry.
 
 “Yes, ma’am,” I said again, with the same object as before.
 
-“—That it is hard,” said Mrs. Coiler, “to have dear Mr. Pocket’s time
+“—That it _is_ hard,” said Mrs. Coiler, “to have dear Mr. Pocket’s time
 and attention diverted from dear Mrs. Pocket.”
 
 I could not help thinking that it might be harder if the butcher’s time
@@ -8102,7 +8238,12 @@ attitude of the Dying Gladiator. Still in that attitude he said, with a
 hollow voice, “Good night, Mr. Pip,” when I deemed it advisable to go
 to bed and leave him.
 
+
+
+
 Chapter XXIV.
+
+
 After two or three days, when I had established myself in my room and
 had gone backwards and forwards to London several times, and had
 ordered all I wanted of my tradesmen, Mr. Pocket and I had a long talk
@@ -8175,8 +8316,8 @@ knitting his brows. “Now, what do you make of four times five?”
 
 “I suppose you make it twenty pounds,” said I, smiling.
 
-“Never mind what I make it, my friend,” observed Mr. Jaggers, with a
-knowing and contradictory toss of his head. “I want to know what you
+“Never mind what _I_ make it, my friend,” observed Mr. Jaggers, with a
+knowing and contradictory toss of his head. “I want to know what _you_
 make it.”
 
 “Twenty pounds, of course.”
@@ -8189,12 +8330,12 @@ impression on me, and that not of an agreeable kind. Mr. Jaggers never
 laughed; but he wore great bright creaking boots, and, in poising
 himself on these boots, with his large head bent down and his eyebrows
 joined together, awaiting an answer, he sometimes caused the boots to
-creak, as if they laughed in a dry and suspicious way. As he happened
+creak, as if _they_ laughed in a dry and suspicious way. As he happened
 to go out now, and as Wemmick was brisk and talkative, I said to
 Wemmick that I hardly knew what to make of Mr. Jaggers’s manner.
 
 “Tell him that, and he’ll take it as a compliment,” answered Wemmick;
-“he don’t mean that you should know what to make of it.—Oh!” for I
+“he don’t mean that you _should_ know what to make of it.—Oh!” for I
 looked surprised, “it’s not personal; it’s professional: only
 professional.”
 
@@ -8274,7 +8415,7 @@ and the weeping willow at the tomb with the urn upon it, and saying,
 “No,” returned Wemmick. “Only his game. (You liked your bit of game,
 didn’t you?) No; deuce a bit of a lady in the case, Mr. Pip, except
 one,—and she wasn’t of this slender lady-like sort, and you wouldn’t
-have caught her looking after this urn, unless there was something to
+have caught _her_ looking after this urn, unless there was something to
 drink in it.” Wemmick’s attention being thus directed to his brooch, he
 put down the cast, and polished the brooch with his
 pocket-handkerchief.
@@ -8358,7 +8499,12 @@ making the legs of the old gentleman who presided, quite convulsive
 under the table, by his denunciations of his conduct as the
 representative of British law and justice in that chair that day.
 
+
+
+
 Chapter XXV.
+
+
 Bentley Drummle, who was so sulky a fellow that he even took up a book
 as if its writer had done him an injury, did not take up an
 acquaintance in a more agreeable spirit. Heavy in figure, movement, and
@@ -8466,8 +8612,8 @@ door or window be fastened at night.”
 “Is he never robbed?”
 
 “That’s it!” returned Wemmick. “He says, and gives it out publicly, “I
-want to see the man who’ll rob me.” Lord bless you, I have heard him, a
-hundred times, if I have heard him once, say to regular cracksmen in
+want to see the man who’ll rob _me_.” Lord bless you, I have heard him,
+a hundred times, if I have heard him once, say to regular cracksmen in
 our front office, “You know where I live; now, no bolt is ever drawn
 there; why don’t you do a stroke of business with me? Come; can’t I
 tempt you?” Not a man of them, sir, would be bold enough to try it on,
@@ -8481,10 +8627,10 @@ metal, every spoon.”
 
 “So they wouldn’t have much,” I observed, “even if they—”
 
-“Ah! But he would have much,” said Wemmick, cutting me short, “and they
-know it. He’d have their lives, and the lives of scores of ’em. He’d
-have all he could get. And it’s impossible to say what he couldn’t get,
-if he gave his mind to it.”
+“Ah! But _he_ would have much,” said Wemmick, cutting me short, “and
+they know it. He’d have their lives, and the lives of scores of ’em.
+He’d have all he could get. And it’s impossible to say what he couldn’t
+get, if he gave his mind to it.”
 
 I was falling into meditation on my guardian’s greatness, when Wemmick
 remarked:—
@@ -8587,11 +8733,12 @@ together by the Nation, after my son’s time, for the people’s
 enjoyment.”
 
 “You’re as proud of it as Punch; ain’t you, Aged?” said Wemmick,
-contemplating the old man, with his hard face really softened; “there’s
-a nod for you;” giving him a tremendous one; “there’s another for you;”
-giving him a still more tremendous one; “you like that, don’t you? If
-you’re not tired, Mr. Pip—though I know it’s tiring to strangers—will
-you tip him one more? You can’t think how it pleases him.”
+contemplating the old man, with his hard face really softened;
+“_there’s_ a nod for you;” giving him a tremendous one; “_there’s_
+another for you;” giving him a still more tremendous one; “you like
+that, don’t you? If you’re not tired, Mr. Pip—though I know it’s tiring
+to strangers—will you tip him one more? You can’t think how it pleases
+him.”
 
 I tipped him several more, and he was in great spirits. We left him
 bestirring himself to feed the fowls, and we sat down to our punch in
@@ -8669,7 +8816,12 @@ drawbridge and the arbour and the lake and the fountain and the Aged,
 had all been blown into space together by the last discharge of the
 Stinger.
 
+
+
+
 Chapter XXVI.
+
+
 It fell out as Wemmick had told me it would, that I had an early
 opportunity of comparing my guardian’s establishment with that of his
 cashier and clerk. My guardian was in his room, washing his hands with
@@ -8818,21 +8970,21 @@ Suddenly, he clapped his large hand on the housekeeper’s, like a trap,
 as she stretched it across the table. So suddenly and smartly did he do
 this, that we all stopped in our foolish contention.
 
-“If you talk of strength,” said Mr. Jaggers, “I’ll show you a wrist.
+“If you talk of strength,” said Mr. Jaggers, “_I_’ll show you a wrist.
 Molly, let them see your wrist.”
 
 Her entrapped hand was on the table, but she had already put her other
 hand behind her waist. “Master,” she said, in a low voice, with her
 eyes attentively and entreatingly fixed upon him. “Don’t.”
 
-“I’ll show you a wrist,” repeated Mr. Jaggers, with an immovable
+“_I_’ll show you a wrist,” repeated Mr. Jaggers, with an immovable
 determination to show it. “Molly, let them see your wrist.”
 
 “Master,” she again murmured. “Please!”
 
 “Molly,” said Mr. Jaggers, not looking at her, but obstinately looking
-at the opposite side of the room, “let them see both your wrists. Show
-them. Come!”
+at the opposite side of the room, “let them see _both_ your wrists.
+Show them. Come!”
 
 He took his hand from hers, and turned that wrist up on the table. She
 brought her other hand from behind her, and held the two out side by
@@ -8878,7 +9030,7 @@ presence but a week or so before.
 “I don’t mean to imply that he won’t,” said I, “but it might make you
 hold your tongue about us and our money, I should think.”
 
-“You should think!” retorted Drummle. “Oh Lord!”
+“_You_ should think!” retorted Drummle. “Oh Lord!”
 
 “I dare say,” I went on, meaning to be very severe, “that you wouldn’t
 lend money to any of us if we wanted it.”
@@ -8888,7 +9040,7 @@ I wouldn’t lend anybody a sixpence.”
 
 “Rather mean to borrow under those circumstances, I should say.”
 
-“You should say,” repeated Drummle. “Oh Lord!”
+“_You_ should say,” repeated Drummle. “Oh Lord!”
 
 This was so very aggravating—the more especially as I found myself
 making no way against his surly obtuseness—that I said, disregarding
@@ -8897,7 +9049,7 @@ Herbert’s efforts to check me,—
 “Come, Mr. Drummle, since we are on the subject, I’ll tell you what
 passed between Herbert here and me, when you borrowed that money.”
 
-“I don’t want to know what passed between Herbert there and you,”
+“_I_ don’t want to know what passed between Herbert there and you,”
 growled Drummle. And I think he added in a lower growl, that we might
 both go to the devil and shake ourselves.
 
@@ -8967,7 +9119,12 @@ In about a month after that, the Spider’s time with Mr. Pocket was up
 for good, and, to the great relief of all the house but Mrs. Pocket, he
 went home to the family hole.
 
+
+
+
 Chapter XXVII.
+
+
 “MY DEAR MR PIP:—
 
 “I write this by request of Mr. Gargery, for to let you know that he is
@@ -8979,15 +9136,16 @@ you in the kitchen every night, and wonder what you are saying and
 doing. If now considered in the light of a liberty, excuse it for the
 love of poor old days. No more, dear Mr. Pip, from
 
-“Your ever obliged, and affectionate servant,        
+“Your ever obliged, and affectionate servant,
 “BIDDY.”
 
-“P.S. He wishes me most particular to write what larks. He says you
+
+“P.S. He wishes me most particular to write _what larks_. He says you
 will understand. I hope and do not doubt it will be agreeable to see
 him, even though a gentleman, for you had ever a good heart, and he is
 a worthy, worthy man. I have read him all, excepting only the last
-little sentence, and he wishes me most particular to write again what
-larks.”
+little sentence, and he wishes me most particular to write again _what
+larks_.”
 
 I received this letter by the post on Monday morning, and therefore its
 appointment was for next day. Let me confess exactly with what feelings
@@ -9023,8 +9181,8 @@ morning in the hall, (it was two feet square, as charged for
 floorcloth,) and Herbert suggested certain things for breakfast that he
 thought Joe would like. While I felt sincerely obliged to him for being
 so interested and considerate, I had an odd half-provoked sense of
-suspicion upon me, that if Joe had been coming to see him, he wouldn’t
-have been quite so brisk about it.
+suspicion upon me, that if Joe had been coming to see _him_, he
+wouldn’t have been quite so brisk about it.
 
 However, I came into town on the Monday night to be ready for Joe, and
 I got up early in the morning, and caused the sitting-room and
@@ -9092,7 +9250,7 @@ circles.”
 
 “Were you at his performance, Joe?” I inquired.
 
-“I were,” said Joe, with emphasis and solemnity.
+“I _were_,” said Joe, with emphasis and solemnity.
 
 “Was there a great sensation?”
 
@@ -9139,7 +9297,7 @@ is most agreeable to yourself.”
 “What do you say to coffee?”
 
 “Thankee, Sir,” returned Joe, evidently dispirited by the proposal,
-“since you are so kind as make chice of coffee, I will not run
+“since you _are_ so kind as make chice of coffee, I will not run
 contrairy to your own opinions. But don’t you never find it a little
 ’eating?”
 
@@ -9301,7 +9459,12 @@ me gently on the forehead, and went out. As soon as I could recover
 myself sufficiently, I hurried out after him and looked for him in the
 neighbouring streets; but he was gone.
 
+
+
+
 Chapter XXVIII.
+
+
 It was clear that I must repair to our town next day, and in the first
 flow of my repentance, it was equally clear that I must stay at Joe’s.
 But, when I had secured my box-place by to-morrow’s coach, and had been
@@ -9406,14 +9569,15 @@ passenger; “I’ll sit next you myself. I’ll put ’em on the outside of
 the row. They won’t interfere with you, sir. You needn’t know they’re
 there.”
 
-“And don’t blame me,” growled the convict I had recognised. “I don’t
-want to go. I am quite ready to stay behind. As fur as I am concerned
-any one’s welcome to my place.”
+“And don’t blame _me_,” growled the convict I had recognised. “_I_
+don’t want to go. _I_ am quite ready to stay behind. As fur as I am
+concerned any one’s welcome to _my_ place.”
 
-“Or mine,” said the other, gruffly. “I wouldn’t have incommoded none of
-you, if I’d had my way.” Then they both laughed, and began cracking
-nuts, and spitting the shells about.—As I really think I should have
-liked to do myself, if I had been in their place and so despised.
+“Or mine,” said the other, gruffly. “_I_ wouldn’t have incommoded none
+of you, if I’d had _my_ way.” Then they both laughed, and began
+cracking nuts, and spitting the shells about.—As I really think I
+should have liked to do myself, if I had been in their place and so
+despised.
 
 At length, it was voted that there was no help for the angry gentleman,
 and that he must either go in his chance company or remain behind. So
@@ -9550,7 +9714,12 @@ somebody there, wandering Esquimaux or civilized man, who would have
 told me that Pumblechook was my earliest patron and the founder of my
 fortunes.
 
+
+
+
 Chapter XXIX.
+
+
 Betimes in the morning I was up and out. It was too early yet to go to
 Miss Havisham’s, so I loitered into the country on Miss Havisham’s side
 of town,—which was not Joe’s side; I could go there to-morrow,—thinking
@@ -9738,7 +9907,7 @@ then, and the like. Estella smiled with perfect composure, and said she
 had no doubt of my having been quite right, and of her having been very
 disagreeable.
 
-“Is he changed?” Miss Havisham asked her.
+“Is _he_ changed?” Miss Havisham asked her.
 
 “Very much,” said Estella, looking at me.
 
@@ -9842,7 +10011,7 @@ Estella, “and of course if it ceased to beat I should cease to be. But
 you know what I mean. I have no softness there,
 no—sympathy—sentiment—nonsense.”
 
-What was it that was borne in upon my mind when she stood still and
+What _was_ it that was borne in upon my mind when she stood still and
 looked attentively at me? Anything that I had seen in Miss Havisham?
 No. In some of her looks and gestures there was that tinge of
 resemblance to Miss Havisham which may often be noticed to have been
@@ -9853,7 +10022,7 @@ that are otherwise quite different. And yet I could not trace this to
 Miss Havisham. I looked again, and though she was still looking at me,
 the suggestion was gone.
 
-What was it?
+What _was_ it?
 
 “I am serious,” said Estella, not so much with a frown (for her brow
 was smooth) as with a darkening of her face; “if we are to be thrown
@@ -9869,7 +10038,7 @@ again the same dim suggestion that I could not possibly grasp crossed
 me. My involuntary start occasioned her to lay her hand upon my arm.
 Instantly the ghost passed once more and was gone.
 
-What was it?
+What _was_ it?
 
 “What is the matter?” asked Estella. “Are you scared again?”
 
@@ -10067,7 +10236,7 @@ I think Miss Pocket was conscious that the sight of me involved her in
 the danger of being goaded to madness, and perhaps tearing off her
 cap,—which was a very hideous one, in the nature of a muslin mop,—and
 strewing the ground with her hair,—which assuredly had never grown on
-her head. She did not appear when we afterwards went up to Miss
+_her_ head. She did not appear when we afterwards went up to Miss
 Havisham’s room, and we four played at whist. In the interval, Miss
 Havisham, in a fantastic way, had put some of the most beautiful jewels
 from her dressing-table into Estella’s hair, and about her bosom and
@@ -10088,7 +10257,7 @@ could never bear to speak to him about her, that I knew I could never
 bear to hear him creak his boots at her, that I knew I could never bear
 to see him wash his hands of her; it was, that my admiration should be
 within a foot or two of him,—it was, that my feelings should be in the
-same place with him,—that, was the agonizing circumstance.
+same place with him,—_that_, was the agonizing circumstance.
 
 We played until nine o’clock, and then it was arranged that when
 Estella came to London I should be forewarned of her coming and should
@@ -10111,7 +10280,12 @@ because I knew she would be contemptuous of him. It was but a day gone,
 and Joe had brought the tears into my eyes; they had soon dried, God
 forgive me! soon dried.
 
+
+
+
 Chapter XXX.
+
+
 After well considering the matter while I was dressing at the Blue Boar
 in the morning, I resolved to tell my guardian that I doubted Orlick’s
 being the right sort of man to fill a post of trust at Miss Havisham’s.
@@ -10126,7 +10300,7 @@ presently, and pay our friend off.” Rather alarmed by this summary
 action, I was for a little delay, and even hinted that our friend
 himself might be difficult to deal with. “Oh no he won’t,” said my
 guardian, making his pocket-handkerchief-point, with perfect
-confidence; “I should like to see him argue the question with me.”
+confidence; “I should like to see him argue the question with _me_.”
 
 As we were going back together to London by the midday coach, and as I
 breakfasted under such terrors of Pumblechook that I could scarcely
@@ -10243,7 +10417,7 @@ matter-of-course way, “Exactly. Well?”
 
 “Well, Herbert? Is that all you say? Well?”
 
-“What next, I mean?” said Herbert. “Of course I know that.”
+“What next, I mean?” said Herbert. “Of course I know _that_.”
 
 “How do you know it?” said I.
 
@@ -10319,7 +10493,7 @@ I said I could not deny that this was a strong point. I said it (people
 often do so, in such cases) like a rather reluctant concession to truth
 and justice;—as if I wanted to deny it!
 
-“I should think it was a strong point,” said Herbert, “and I should
+“I should think it _was_ a strong point,” said Herbert, “and I should
 think you would be puzzled to imagine a stronger; as to the rest, you
 must bide your guardian’s time, and he must bide his client’s time.
 You’ll be one-and-twenty before you know where you are, and then
@@ -10463,7 +10637,7 @@ ceiling. But I don’t know how long the rafters may hold.”
 When he had once more laughed heartily, he became meek again, and told
 me that the moment he began to realise Capital, it was his intention to
 marry this young lady. He added as a self-evident proposition,
-engendering low spirits, “But you can’t marry, you know, while you’re
+engendering low spirits, “But you _can’t_ marry, you know, while you’re
 looking about you.”
 
 As we contemplated the fire, and as I thought what a difficult vision
@@ -10483,7 +10657,12 @@ warmly shaken hands upon our mutual confidence, we blew out our
 candles, made up our fire, locked our door, and issued forth in quest
 of Mr. Wopsle and Denmark.
 
+
+
+
 Chapter XXXI.
+
+
 On our arrival in Denmark, we found the king and queen of that country
 elevated in two arm-chairs on a kitchen-table, holding a Court. The
 whole of the Danish nobility were in attendance; consisting of a noble
@@ -10543,7 +10722,7 @@ given him. On his taking the recorders,—very like a little black flute
 that had just been played in the orchestra and handed out at the
 door,—he was called upon unanimously for Rule Britannia. When he
 recommended the player not to saw the air thus, the sulky man said,
-“And don’t you do it, neither; you’re a deal worse than him!” And I
+“And don’t _you_ do it, neither; you’re a deal worse than _him_!” And I
 grieve to add that peals of laughter greeted Mr. Wopsle on every one of
 these occasions.
 
@@ -10704,7 +10883,12 @@ I had to give my hand in marriage to Herbert’s Clara, or play Hamlet to
 Miss Havisham’s Ghost, before twenty thousand people, without knowing
 twenty words of it.
 
+
+
+
 Chapter XXXII.
+
+
 One day when I was busy with my books and Mr. Pocket, I received a note
 by the post, the mere outside of which threw me into a great flutter;
 for, though I had never seen the handwriting in which it was addressed,
@@ -10716,7 +10900,9 @@ believe it was settled you should meet me? At all events Miss Havisham
 has that impression, and I write in obedience to it. She sends you her
 regard.
 
+
 “Yours, ESTELLA.”
+
 
 If there had been time, I should probably have ordered several suits of
 clothes for this occasion; but as there was not, I was fain to be
@@ -10731,7 +10917,7 @@ had performed the first half-hour of a watch of four or five hours,
 when Wemmick ran against me.
 
 “Halloa, Mr. Pip,” said he; “how do you do? I should hardly have
-thought this was your beat.”
+thought this was _your_ beat.”
 
 I explained that I was waiting to meet somebody who was coming up by
 coach, and I inquired after the Castle and the Aged.
@@ -10787,13 +10973,13 @@ disorderly, depressing scene it was.
 It struck me that Wemmick walked among the prisoners much as a gardener
 might walk among his plants. This was first put into my head by his
 seeing a shoot that had come up in the night, and saying, “What,
-Captain Tom? Are you there? Ah, indeed!” and also, “Is that Black Bill
-behind the cistern? Why I didn’t look for you these two months; how do
-you find yourself?” Equally in his stopping at the bars and attending
-to anxious whisperers,—always singly,—Wemmick with his post-office in
-an immovable state, looked at them while in conference, as if he were
-taking particular notice of the advance they had made, since last
-observed, towards coming out in full blow at their trial.
+Captain Tom? Are _you_ there? Ah, indeed!” and also, “Is that Black
+Bill behind the cistern? Why I didn’t look for you these two months;
+how do you find yourself?” Equally in his stopping at the bars and
+attending to anxious whisperers,—always singly,—Wemmick with his
+post-office in an immovable state, looked at them while in conference,
+as if he were taking particular notice of the advance they had made,
+since last observed, towards coming out in full blow at their trial.
 
 He was highly popular, and I found that he took the familiar department
 of Mr. Jaggers’s business; though something of the state of Mr. Jaggers
@@ -10831,11 +11017,11 @@ salute.
 “Everything was done that could be done, but the evidence was too
 strong for us, Colonel.”
 
-“Yes, it was too strong, sir,—but I don’t care.”
+“Yes, it was too strong, sir,—but _I_ don’t care.”
 
-“No, no,” said Wemmick, coolly, “you don’t care.” Then, turning to me,
-“Served His Majesty this man. Was a soldier in the line and bought his
-discharge.”
+“No, no,” said Wemmick, coolly, “_you_ don’t care.” Then, turning to
+me, “Served His Majesty this man. Was a soldier in the line and bought
+his discharge.”
 
 I said, “Indeed?” and the man’s eyes looked at me, and then looked over
 my head, and then looked all round me, and then he drew his hand across
@@ -10857,8 +11043,8 @@ your wearing another ring—in acknowledgment of your attentions.”
 
 “I’ll accept the will for the deed,” said Wemmick. “By the by; you were
 quite a pigeon-fancier.” The man looked up at the sky. “I am told you
-had a remarkable breed of tumblers. Could you commission any friend of
-yours to bring me a pair, if you’ve no further use for ’em?”
+had a remarkable breed of tumblers. _Could_ you commission any friend
+of yours to bring me a pair, if you’ve no further use for ’em?”
 
 “It shall be done, sir.”
 
@@ -10912,7 +11098,7 @@ street.
 to be more confidential; “I don’t know that Mr. Jaggers does a better
 thing than the way in which he keeps himself so high. He’s always so
 high. His constant height is of a piece with his immense abilities.
-That Colonel durst no more take leave of him, than that turnkey durst
+That Colonel durst no more take leave of _him_, than that turnkey durst
 ask him his intentions respecting a case. Then, between his height and
 them, he slips in his subordinate,—don’t you see?—and so he has ’em,
 soul and body.”
@@ -10943,10 +11129,15 @@ I was not yet free from the soiling consciousness of Mr. Wemmick’s
 conservatory, when I saw her face at the coach window and her hand
 waving to me.
 
-What was the nameless shadow which again in that one instant had
+What _was_ the nameless shadow which again in that one instant had
 passed?
 
+
+
+
 Chapter XXXIII.
+
+
 In her furred travelling-dress, Estella seemed more delicately
 beautiful than she had ever seemed yet, even in my eyes. Her manner was
 more winning than she had cared to let it be to me before, and I
@@ -11010,8 +11201,8 @@ She answered so carelessly, that I said, “You speak of yourself as if
 you were some one else.”
 
 “Where did you learn how I speak of others? Come, come,” said Estella,
-smiling delightfully, “you must not expect me to go to school to you; I
-must talk in my own way. How do you thrive with Mr. Pocket?”
+smiling delightfully, “you must not expect me to go to school to _you_;
+I must talk in my own way. How do you thrive with Mr. Pocket?”
 
 “I live quite pleasantly there; at least—” It appeared to me that I was
 losing a chance.
@@ -11249,7 +11440,12 @@ him to accept my confidence. But happening to look up at Mrs. Pocket as
 she sat reading her book of dignities after prescribing Bed as a
 sovereign remedy for baby, I thought—Well—No, I wouldn’t.
 
+
+
+
 Chapter XXXIV.
+
+
 As I had grown accustomed to my expectations, I had insensibly begun to
 notice their effect upon myself and those around me. Their influence on
 my own character I disguised from my recognition as much as possible,
@@ -11424,7 +11620,7 @@ are mounting up.”
 assiduity. “Look the thing in the face. Look into your affairs. Stare
 them out of countenance.”
 
-“So I would, Handel, only they are staring me out of countenance.”
+“So I would, Handel, only they are staring _me_ out of countenance.”
 
 However, my determined manner would have its effect, and Herbert would
 fall to work again. After a time he would give up once more, on the
@@ -11480,7 +11676,12 @@ Gargery had departed this life on Monday last at twenty minutes past
 six in the evening, and that my attendance was requested at the
 interment on Monday next at three o’clock in the afternoon.
 
+
+
+
 Chapter XXXV.
+
+
 It was the first time that a grave had opened in my road of life, and
 the gap it made in the smooth ground was wonderful. The figure of my
 sister in her chair by the kitchen fire, haunted me night and day. That
@@ -11594,11 +11795,11 @@ we were much admired as we went through the village; the more youthful
 and vigorous part of the community making dashes now and then to cut us
 off, and lying in wait to intercept us at points of vantage. At such
 times the more exuberant among them called out in an excited manner on
-our emergence round some corner of expectancy, “Here they come!” “Here
-they are!” and we were all but cheered. In this progress I was much
-annoyed by the abject Pumblechook, who, being behind me, persisted all
-the way as a delicate attention in arranging my streaming hatband, and
-smoothing my cloak. My thoughts were further distracted by the
+our emergence round some corner of expectancy, “_Here_ they come!”
+“_Here_ they are!” and we were all but cheered. In this progress I was
+much annoyed by the abject Pumblechook, who, being behind me, persisted
+all the way as a delicate attention in arranging my streaming hatband,
+and smoothing my cloak. My thoughts were further distracted by the
 excessive pride of Mr. and Mrs. Hubble, who were surpassingly conceited
 and vainglorious in being members of so distinguished a procession.
 
@@ -11803,10 +12004,15 @@ parting, “I am not angry, but I am hurt.”
 hurt, if I have been ungenerous.”
 
 Once more, the mists were rising as I walked away. If they disclosed to
-me, as I suspect they did, that I should not come back, and that Biddy
-was quite right, all I can say is,—they were quite right too.
+me, as I suspect they did, that I should _not_ come back, and that
+Biddy was quite right, all I can say is,—they were quite right too.
+
+
+
 
 Chapter XXXVI.
+
+
 Herbert and I went on from bad to worse, in the way of increasing our
 debts, looking into our affairs, leaving Margins, and the like
 exemplary transactions; and Time went on, whether or no, as he has a
@@ -11870,8 +12076,8 @@ I confessed myself quite unable to answer the question. This reply
 seemed agreeable to Mr. Jaggers, who said, “I thought so!” and blew his
 nose with an air of satisfaction.
 
-“Now, I have asked you a question, my friend,” said Mr. Jaggers. “Have
-you anything to ask me?”
+“Now, I have asked _you_ a question, my friend,” said Mr. Jaggers.
+“Have you anything to ask _me_?”
 
 “Of course it would be a great relief to me to ask you several
 questions, sir; but I remember your prohibition.”
@@ -11986,7 +12192,7 @@ suspended attention, and were going to sneeze.
 “Come!” said Mr. Jaggers, warming the backs of his legs with the backs
 of his warmed hands, “I’ll be plain with you, my friend Pip. That’s a
 question I must not be asked. You’ll understand that better, when I
-tell you it’s a question that might compromise me. Come! I’ll go a
+tell you it’s a question that might compromise _me_. Come! I’ll go a
 little further with you; I’ll say something more.”
 
 He bent down so low to frown at his boots, that he was able to rub the
@@ -12043,9 +12249,9 @@ beginning. Now I want somehow to help him to a beginning.”
 
 “With money down?” said Wemmick, in a tone drier than any sawdust.
 
-“With some money down,” I replied, for an uneasy remembrance shot
-across me of that symmetrical bundle of papers at home—“with some money
-down, and perhaps some anticipation of my expectations.”
+“With _some_ money down,” I replied, for an uneasy remembrance shot
+across me of that symmetrical bundle of papers at home—“with _some_
+money down, and perhaps some anticipation of my expectations.”
 
 “Mr. Pip,” said Wemmick, “I should like just to run over with you on my
 fingers, if you please, the names of the various bridges up as high as
@@ -12116,7 +12322,12 @@ because, after he was gone, Herbert said of himself, with his eyes
 fixed on the fire, that he thought he must have committed a felony and
 forgotten the details of it, he felt so dejected and guilty.
 
+
+
+
 Chapter XXXVII.
+
+
 Deeming Sunday the best day for taking Mr. Wemmick’s Walworth
 sentiments, I devoted the next ensuing Sunday afternoon to a pilgrimage
 to the Castle. On arriving before the battlements, I found the Union
@@ -12261,7 +12472,7 @@ agent. I’ll look him up and go to work for you.”
 
 “On the contrary,” said he, “I thank you, for though we are strictly in
 our private and personal capacity, still it may be mentioned that there
-are Newgate cobwebs about, and it brushes them away.”
+_are_ Newgate cobwebs about, and it brushes them away.”
 
 After a little further conversation to the same effect, we returned
 into the Castle where we found Miss Skiffins preparing tea. The
@@ -12396,7 +12607,12 @@ view. But, before I proceed to narrate it, and before I pass on to all
 the changes it involved, I must give one chapter to Estella. It is not
 much to give to the theme that so long filled my heart.
 
+
+
+
 Chapter XXXVIII.
+
+
 If that staid old house near the Green at Richmond should ever come to
 be haunted when I am dead, it will be haunted, surely, by my ghost. O
 the many, many nights and days through which the unquiet spirit within
@@ -12643,9 +12859,9 @@ learnt my lesson?”
 “Who taught me to be hard?” returned Estella. “Who praised me when I
 learnt my lesson?”
 
-“But to be proud and hard to me!” Miss Havisham quite shrieked, as she
-stretched out her arms. “Estella, Estella, Estella, to be proud and
-hard to me!”
+“But to be proud and hard to _me_!” Miss Havisham quite shrieked, as
+she stretched out her arms. “Estella, Estella, Estella, to be proud and
+hard to _me_!”
 
 Estella looked at her for a moment with a kind of calm wonder, but was
 not otherwise disturbed; when the moment was past, she looked down at
@@ -12767,11 +12983,11 @@ whispered Herbert.
 “I know that lady,” said Herbert, across the table, when the toast had
 been honoured.
 
-“Do you?” said Drummle.
+“_Do_ you?” said Drummle.
 
 “And so do I,” I added, with a scarlet face.
 
-“Do you?” said Drummle. “O, Lord!”
+“_Do_ you?” said Drummle. “_O_, Lord!”
 
 This was the only retort—except glass or crockery—that the heavy
 creature was capable of making; but, I became as highly incensed by it
@@ -12788,11 +13004,11 @@ Whether it was possible in a Christian country to get on without blood,
 after this, was a question on which the Finches were divided. The
 debate upon it grew so lively, indeed, that at least six more
 honourable members told six more, during the discussion, that they
-believed they knew where they were to be found. However, it was decided
-at last (the Grove being a Court of Honour) that if Mr. Drummle would
-bring never so slight a certificate from the lady, importing that he
-had the honour of her acquaintance, Mr. Pip must express his regret, as
-a gentleman and a Finch, for “having been betrayed into a warmth
+believed _they_ knew where _they_ were to be found. However, it was
+decided at last (the Grove being a Court of Honour) that if Mr. Drummle
+would bring never so slight a certificate from the lady, importing that
+he had the honour of her acquaintance, Mr. Pip must express his regret,
+as a gentleman and a Finch, for “having been betrayed into a warmth
 which.” Next day was appointed for the production (lest our honour
 should take cold from delay), and next day Drummle appeared with a
 polite little avowal in Estella’s hand, that she had had the honour of
@@ -12926,6 +13142,9 @@ serious, if not angry, look, “to deceive and entrap you?”
 “Yes, and many others,—all of them but you. Here is Mrs. Brandley. I’ll
 say no more.”
 
+
+
+
 And now that I have given the one chapter to the theme that so filled
 my heart, and so often made it ache and ache again, I pass on
 unhindered, to the event that had impended over me longer yet; the
@@ -12947,8 +13166,13 @@ and afar, that tended to the end, had been accomplished; and in an
 instant the blow was struck, and the roof of my stronghold dropped upon
 me.
 
+
+
+
 Chapter XXXIX.
-Iwas three-and-twenty years of age. Not another word had I heard to
+
+
+I was three-and-twenty years of age. Not another word had I heard to
 enlighten me on the subject of my expectations, and my twenty-third
 birthday was a week gone. We had left Barnard’s Inn more than a year,
 and lived in the Temple. Our chambers were in Garden-court, down by the
@@ -13131,8 +13355,8 @@ weary. Will you drink something before you go?”
 
 He had replaced his neckerchief loosely, and had stood, keenly
 observant of me, biting a long end of it. “I think,” he answered, still
-with the end at his mouth and still observant of me, “that I will drink
-(I thank you) afore I go.”
+with the end at his mouth and still observant of me, “that I _will_
+drink (I thank you) afore I go.”
 
 There was a tray ready on a side-table. I brought it to the table near
 the fire, and asked him what he would have? He touched one of the
@@ -13194,7 +13418,7 @@ long-wise, gave them a twist, set fire to them at the lamp, and dropped
 the ashes into the tray.
 
 “May I make so bold,” he said then, with a smile that was like a frown,
-and with a frown that was like a smile, “as ask you how you have done
+and with a frown that was like a smile, “as ask you _how_ you have done
 well, since you and me was out on them lone shivering marshes?”
 
 “How?”
@@ -13283,8 +13507,8 @@ grain of relief I had.
 
 “Look’ee here!” he went on, taking my watch out of my pocket, and
 turning towards him a ring on my finger, while I recoiled from his
-touch as if he had been a snake, “a gold ’un and a beauty: that’s a
-gentleman’s, I hope! A diamond all set round with rubies; that’s a
+touch as if he had been a snake, “a gold ’un and a beauty: _that’s_ a
+gentleman’s, I hope! A diamond all set round with rubies; _that’s_ a
 gentleman’s, I hope! Look at your linen; fine and beautiful! Look at
 your clothes; better ain’t to be got! And your books too,” turning his
 eyes round the room, “mounting up, on their shelves, by hundreds! And
@@ -13305,8 +13529,8 @@ this as I wos. But didn’t you never think it might be me?”
 
 “O no, no, no,” I returned, “Never, never!”
 
-“Well, you see it wos me, and single-handed. Never a soul in it but my
-own self and Mr. Jaggers.”
+“Well, you see it _wos_ me, and single-handed. Never a soul in it but
+my own self and Mr. Jaggers.”
 
 “Was there no one else?” I asked.
 
@@ -13336,7 +13560,7 @@ contented, yet, by comparison happy!
 “And then, dear boy, it was a recompense to me, look’ee here, to know
 in secret that I was making a gentleman. The blood horses of them
 colonists might fling up the dust over me as I was walking; what do I
-say? I says to myself, ‘I’m making a better gentleman nor ever you’ll
+say? I says to myself, ‘I’m making a better gentleman nor ever _you_’ll
 be!’ When one of ’em says to another, ‘He was a convict, a few year
 ago, and is a ignorant common fellow now, for all he’s lucky,’ what do
 I say? I says to myself, ‘If I ain’t a gentleman, nor yet ain’t got no
@@ -13466,7 +13690,13 @@ striking five, the candles were wasted out, the fire was dead, and the
 wind and rain intensified the thick black darkness.
 
 THIS IS THE END OF THE SECOND STAGE OF PIP’S EXPECTATIONS.
+
+
+
+
 Chapter XL.
+
+
 It was fortunate for me that I had to take precautions to ensure (so
 far as I could) the safety of my dreaded visitor; for, this thought
 pressing on me when I awoke, held other thoughts in a confused
@@ -13623,8 +13853,8 @@ you any one with you?”
 “But there was some one there?”
 
 “I didn’t take particular notice,” he said, dubiously, “not knowing the
-ways of the place. But I think there was a person, too, come in alonger
-me.”
+ways of the place. But I think there _was_ a person, too, come in
+alonger me.”
 
 “Are you known in London?”
 
@@ -13684,7 +13914,7 @@ hoarse voice, and sat looking up at his furrowed bald head with its
 iron grey hair at the sides.
 
 “I mustn’t see my gentleman a footing it in the mire of the streets;
-there mustn’t be no mud on his boots. My gentleman must have horses,
+there mustn’t be no mud on _his_ boots. My gentleman must have horses,
 Pip! Horses to ride, and horses to drive, and horses for his servant to
 ride and drive as well. Shall colonists have their horses (and blood
 ’uns, if you please, good Lord!) and not my London gentleman? No, no.
@@ -13696,12 +13926,12 @@ papers, and tossed it on the table.
 “There’s something worth spending in that there book, dear boy. It’s
 yourn. All I’ve got ain’t mine; it’s yourn. Don’t you be afeerd on it.
 There’s more where that come from. I’ve come to the old country fur to
-see my gentleman spend his money like a gentleman. That’ll be my
-pleasure. My pleasure ’ull be fur to see him do it. And blast you all!”
-he wound up, looking round the room and snapping his fingers once with
-a loud snap, “blast you every one, from the judge in his wig, to the
-colonist a stirring up the dust, I’ll show a better gentleman than the
-whole kit on you put together!”
+see my gentleman spend his money _like_ a gentleman. That’ll be _my_
+pleasure. _My_ pleasure ’ull be fur to see him do it. And blast you
+all!” he wound up, looking round the room and snapping his fingers once
+with a loud snap, “blast you every one, from the judge in his wig, to
+the colonist a stirring up the dust, I’ll show a better gentleman than
+the whole kit on you put together!”
 
 “Stop!” said I, almost in a frenzy of fear and dislike, “I want to
 speak to you. I want to know what is to be done. I want to know how you
@@ -13722,7 +13952,8 @@ gentleman, not without knowing what’s due to him. Look’ee here, Pip. I
 was low; that’s what I was; low. Look over it, dear boy.”
 
 Some sense of the grimly-ludicrous moved me to a fretful laugh, as I
-replied, “I have looked over it. In Heaven’s name, don’t harp upon it!”
+replied, “I _have_ looked over it. In Heaven’s name, don’t harp upon
+it!”
 
 “Yes, but look’ee here,” he persisted. “Dear boy, I ain’t come so fur,
 not fur to be low. Now, go on, dear boy. You was a saying—”
@@ -13905,8 +14136,8 @@ a colonist of the name of Purvis, or—”
 
 “Or Provis,” I suggested.
 
-“Or Provis—thank you, Pip. Perhaps it is Provis? Perhaps you know it’s
-Provis?”
+“Or Provis—thank you, Pip. Perhaps it _is_ Provis? Perhaps you know
+it’s Provis?”
 
 “Yes,” said I.
 
@@ -14041,7 +14272,12 @@ immediately shaking hands with him, said, “Now you’re on your oath, you
 know. And never believe me on mine, if Pip shan’t make a gentleman on
 you!”
 
+
+
+
 Chapter XLI.
+
+
 In vain should I attempt to describe the astonishment and disquiet of
 Herbert, when he and I and Provis sat down before the fire, and I
 recounted the whole of the secret. Enough, that I saw my own feelings
@@ -14287,12 +14523,17 @@ stuck his pipe in a button-hole of his coat, spread a hand on each
 knee, and after turning an angry eye on the fire for a few silent
 moments, looked round at us and said what follows.
 
+
+
+
 Chapter XLII.
+
+
 “Dear boy and Pip’s comrade. I am not a-going fur to tell you my life
 like a song, or a story-book. But to give it you short and handy, I’ll
 put it at once into a mouthful of English. In jail and out of jail, in
 jail and out of jail, in jail and out of jail. There, you’ve got it.
-That’s my life pretty much, down to such times as I got shipped off,
+That’s _my_ life pretty much, down to such times as I got shipped off,
 arter Pip stood my friend.
 
 “I’ve been done everything to, pretty well—except hanged. I’ve been
@@ -14414,8 +14655,8 @@ or in at the window, and up the stairs?’
 
 “‘I don’t know how she’s there,’ says Arthur, shivering dreadful with
 the horrors, ‘but she’s standing in the corner at the foot of the bed,
-awful mad. And over where her heart’s broke—you broke it!—there’s drops
-of blood.’
+awful mad. And over where her heart’s broke—_you_ broke it!—there’s
+drops of blood.’
 
 “Compeyson spoke hardy, but he was always a coward. ‘Go up alonger this
 drivelling sick man,’ he says to his wife, ‘and Magwitch, lend her a
@@ -14457,7 +14698,7 @@ in debt to him, always under his thumb, always a working, always a
 getting into danger. He was younger than me, but he’d got craft, and
 he’d got learning, and he overmatched me five hundred times told and no
 mercy. My Missis as I had the hard time wi’—Stop though! I ain’t
-brought her in—”
+brought _her_ in—”
 
 He looked about him in a confused way, as if he had lost his place in
 the book of his remembrance; and he turned his face to the fire, and
@@ -14471,14 +14712,14 @@ misdemeanor, while with Compeyson?”
 
 I answered, No.
 
-“Well!” he said, “I was, and got convicted. As to took up on suspicion,
-that was twice or three times in the four or five year that it lasted;
-but evidence was wanting. At last, me and Compeyson was both committed
-for felony,—on a charge of putting stolen notes in circulation,—and
-there was other charges behind. Compeyson says to me, ‘Separate
-defences, no communication,’ and that was all. And I was so miserable
-poor, that I sold all the clothes I had, except what hung on my back,
-afore I could get Jaggers.
+“Well!” he said, “I _was_, and got convicted. As to took up on
+suspicion, that was twice or three times in the four or five year that
+it lasted; but evidence was wanting. At last, me and Compeyson was both
+committed for felony,—on a charge of putting stolen notes in
+circulation,—and there was other charges behind. Compeyson says to me,
+‘Separate defences, no communication,’ and that was all. And I was so
+miserable poor, that I sold all the clothes I had, except what hung on
+my back, afore I could get Jaggers.
 
 “When we was put in the dock, I noticed first of all what a gentleman
 Compeyson looked, wi’ his curly hair and his black clothes and his
@@ -14564,8 +14805,8 @@ button-hole, and slowly filled it, and began to smoke.
 
 “Compeyson.”
 
-“He hopes I am, if he’s alive, you may be sure,” with a fierce look. “I
-never heerd no more of him.”
+“He hopes _I_ am, if he’s alive, you may be sure,” with a fierce look.
+“I never heerd no more of him.”
 
 Herbert had been writing with his pencil in the cover of a book. He
 softly pushed the book over to me, as Provis stood smoking with his
@@ -14578,7 +14819,12 @@ I shut the book and nodded slightly to Herbert, and put the book by;
 but we neither of us said anything, and both looked at Provis as he
 stood smoking by the fire.
 
+
+
+
 Chapter XLIII.
+
+
 Why should I pause to ask how much of my shrinking from Provis might be
 traced to Estella? Why should I loiter on my road, to compare the state
 of mind in which I had tried to rid myself of the stain of the prison
@@ -14669,7 +14915,7 @@ fire.
 “You have just come down?” said Mr. Drummle, edging me a little away
 with his shoulder.
 
-“Yes,” said I, edging him a little away with my shoulder.
+“Yes,” said I, edging _him_ a little away with _my_ shoulder.
 
 “Beastly place,” said Drummle. “Your part of the country, I think?”
 
@@ -14817,7 +15063,12 @@ journey from my face and hands, and went out to the memorable old house
 that it would have been so much the better for me never to have
 entered, never to have seen.
 
+
+
+
 Chapter XLIV.
+
+
 In the room where the dressing-table stood, and where the wax-candles
 burnt on the wall, I found Miss Havisham and Estella; Miss Havisham
 seated on a settee near the fire, and Estella on a cushion at her feet.
@@ -14834,7 +15085,7 @@ plainly as if she had told me in the dumb alphabet, that she perceived
 I had discovered my real benefactor.
 
 “Miss Havisham,” said I, “I went to Richmond yesterday, to speak to
-Estella; and finding that some wind had blown her here, I followed.”
+Estella; and finding that some wind had blown _her_ here, I followed.”
 
 Miss Havisham motioning to me for the third or fourth time to sit down,
 I took the chair by the dressing-table, which I had often seen her
@@ -14902,7 +15153,7 @@ your intention, without offence—your self-seeking relations?”
 
 “I did. Why, they would have it so! So would you. What has been my
 history, that I should be at the pains of entreating either them or you
-not to have it so! You made your own snares. I never made them.”
+not to have it so! You made your own snares. _I_ never made them.”
 
 Waiting until she was quiet again,—for this, too, flashed out of her in
 a wild and sudden way,—I went on.
@@ -15011,7 +15262,7 @@ Now, did you not think so?”
 “I thought and hoped you could not mean it. You, so young, untried, and
 beautiful, Estella! Surely it is not in Nature.”
 
-“It is in my nature,” she returned. And then she added, with a stress
+“It is in _my_ nature,” she returned. And then she added, with a stress
 upon the words, “It is in the nature formed within me. I make a great
 difference between you and all other people when I say so much. I can
 do no more.”
@@ -15152,7 +15403,12 @@ his light, and read inside, in Wemmick’s writing,—
 
 “DON’T GO HOME.”
 
+
+
+
 Chapter XLV.
+
+
 Turning from the Temple gate as soon as I had read the warning, I made
 the best of my way to Fleet Street, and there got a late hackney
 chariot and drove to the Hummums in Covent Garden. In those times a bed
@@ -15247,8 +15503,8 @@ I told him.
 “I’ll go round to the others in the course of the day and destroy the
 notes,” said Wemmick; “it’s a good rule never to leave documentary
 evidence if you can help it, because you don’t know when it may be put
-in. I’m going to take a liberty with you. Would you mind toasting this
-sausage for the Aged P.?”
+in. I’m going to take a liberty with you. _Would_ you mind toasting
+this sausage for the Aged P.?”
 
 I said I should be delighted to do it.
 
@@ -15360,12 +15616,12 @@ while you were out of the way.”
 
 “He would be greatly puzzled what to do?”
 
-“He was puzzled what to do; not the less, because I gave him my opinion
-that it was not safe to try to get Tom, Jack, or Richard too far out of
-the way at present. Mr. Pip, I’ll tell you something. Under existing
-circumstances, there is no place like a great city when you are once in
-it. Don’t break cover too soon. Lie close. Wait till things slacken,
-before you try the open, even for foreign air.”
+“He _was_ puzzled what to do; not the less, because I gave him my
+opinion that it was not safe to try to get Tom, Jack, or Richard too
+far out of the way at present. Mr. Pip, I’ll tell you something. Under
+existing circumstances, there is no place like a great city when you
+are once in it. Don’t break cover too soon. Lie close. Wait till things
+slacken, before you try the open, even for foreign air.”
 
 I thanked him for his valuable advice, and asked him what Herbert had
 done?
@@ -15398,11 +15654,11 @@ river-side, down the Pool there between Limehouse and Greenwich, and
 being kept, it seems, by a very respectable widow who has a furnished
 upper floor to let, Mr. Herbert put it to me, what did I think of that
 as a temporary tenement for Tom, Jack, or Richard? Now, I thought very
-well of it, for three reasons I’ll give you. That is to say: Firstly.
+well of it, for three reasons I’ll give you. That is to say: _Firstly_.
 It’s altogether out of all your beats, and is well away from the usual
-heap of streets great and small. Secondly. Without going near it
+heap of streets great and small. _Secondly_. Without going near it
 yourself, you could always hear of the safety of Tom, Jack, or Richard,
-through Mr. Herbert. Thirdly. After a while and when it might be
+through Mr. Herbert. _Thirdly_. After a while and when it might be
 prudent, if you should want to slip Tom, Jack, or Richard on board a
 foreign packet-boat, there he is—ready.”
 
@@ -15450,7 +15706,7 @@ bit of—you remember the pig?”
 
 “Of course,” said I.
 
-“Well; and a little bit of him. That sausage you toasted was his, and
+“Well; and a little bit of _him_. That sausage you toasted was his, and
 he was in all respects a first-rater. Do try him, if it is only for old
 acquaintance sake. Good-bye, Aged Parent!” in a cheery shout.
 
@@ -15465,7 +15721,12 @@ for toast; and I inferred from the number of teacups, as well as from
 his glances at the two little doors in the wall, that Miss Skiffins was
 expected.
 
+
+
+
 Chapter XLVI.
+
+
 Eight o’clock had struck before I got into the air, that was scented,
 not disagreeably, by the chips and shavings of the long-shore
 boat-builders, and mast, oar, and block makers. All that water-side
@@ -15509,7 +15770,7 @@ on the terrace at Windsor.
 “All is well, Handel,” said Herbert, “and he is quite satisfied, though
 eager to see you. My dear girl is with her father; and if you’ll wait
 till she comes down, I’ll make you known to her, and then we’ll go
-upstairs. That’s her father.”
+upstairs. _That’s_ her father.”
 
 I had become aware of an alarming growling overhead, and had probably
 expressed the fact in my countenance.
@@ -15522,13 +15783,13 @@ have never seen him. Don’t you smell rum? He is always at it.”
 “Yes,” returned Herbert, “and you may suppose how mild it makes his
 gout. He persists, too, in keeping all the provisions upstairs in his
 room, and serving them out. He keeps them on shelves over his head, and
-will weigh them all. His room must be like a chandler’s shop.”
+_will_ weigh them all. His room must be like a chandler’s shop.”
 
 While he thus spoke, the growling noise became a prolonged roar, and
 then died away.
 
 “What else can be the consequence,” said Herbert, in explanation, “if
-he will cut the cheese? A man with the gout in his right hand—and
+he _will_ cut the cheese? A man with the gout in his right hand—and
 everywhere else—can’t expect to get through a Double Gloucester without
 hurting himself.”
 
@@ -15762,7 +16023,12 @@ Clara. But I thought with dread that it was flowing towards Magwitch,
 and that any black mark on its surface might be his pursuers, going
 swiftly, silently, and surely, to take him.
 
+
+
+
 Chapter XLVII.
+
+
 Some weeks passed without bringing any change. We waited for Wemmick,
 and he made no sign. If I had never known him out of Little Britain,
 and had never enjoyed the privilege of being on a familiar footing at
@@ -16019,7 +16285,12 @@ if that were possible,—and I for my part never went near Chinks’s
 Basin, except when I rowed by, and then I only looked at Mill Pond Bank
 as I looked at anything else.
 
+
+
+
 Chapter XLVIII.
+
+
 The second of the two meetings referred to in the last chapter occurred
 about a week after the first. I had again left my boat at the wharf
 below Bridge; the time was an hour earlier in the afternoon; and,
@@ -16037,7 +16308,7 @@ Where are you bound for?”
 “Don’t you know?” said Mr. Jaggers.
 
 “Well,” I returned, glad for once to get the better of him in
-cross-examination, “I do not know, for I have not made up my mind.”
+cross-examination, “I do _not_ know, for I have not made up my mind.”
 
 “You are going to dine?” said Mr. Jaggers. “You don’t mind admitting
 that, I suppose?”
@@ -16129,7 +16400,7 @@ circumstances, because it’s a toss-up between two results.”
 
 “A fellow like our friend the Spider,” answered Mr. Jaggers, “either
 beats or cringes. He may cringe and growl, or cringe and not growl; but
-he either beats or cringes. Ask Wemmick his opinion.”
+he either beats or cringes. Ask Wemmick _his_ opinion.”
 
 “Either beats or cringes,” said Wemmick, not at all addressing himself
 to me.
@@ -16137,7 +16408,7 @@ to me.
 “So here’s to Mrs. Bentley Drummle,” said Mr. Jaggers, taking a
 decanter of choicer wine from his dumb-waiter, and filling for each of
 us and for himself, “and may the question of supremacy be settled to
-the lady’s satisfaction! To the satisfaction of the lady and the
+the lady’s satisfaction! To the satisfaction of the lady _and_ the
 gentleman, it never will be. Now, Molly, Molly, Molly, Molly, how slow
 you are to-day!”
 
@@ -16225,7 +16496,7 @@ suddenly, “I know I did. I find I am not quite unscrewed yet.”
 
 “A wild beast tamed, you called her.”
 
-“And what do you call her?”
+“And what do _you_ call her?”
 
 “The same. How did Mr. Jaggers tame her, Wemmick?”
 
@@ -16297,7 +16568,7 @@ you set up the hypothesis that she destroyed her child. You must accept
 all consequences of that hypothesis. For anything we know, she may have
 destroyed her child, and the child in clinging to her may have
 scratched her hands. What then? You are not trying her for the murder
-of her child; why don’t you? As to this case, if you will have
+of her child; why don’t you? As to this case, if you _will_ have
 scratches, we say that, for anything we know, you may have accounted
 for them, assuming for the sake of argument that you have not invented
 them?” “To sum up, sir,” said Wemmick, “Mr. Jaggers was altogether too
@@ -16321,7 +16592,12 @@ tamed from the beginning.”
 We exchanged a cordial good-night, and I went home, with new matter for
 my thoughts, though with no relief from the old.
 
+
+
+
 Chapter XLIX.
+
+
 Putting Miss Havisham’s note in my pocket, that it might serve as my
 credentials for so soon reappearing at Satis House, in case her
 waywardness should lead her to express any surprise at seeing me, I
@@ -16714,7 +16990,12 @@ therefore, I leaned over her and touched her lips with mine, just as
 they said, not stopping for being touched, “Take the pencil and write
 under my name, ‘I forgive her.’”
 
+
+
+
 Chapter L.
+
+
 My hands had been dressed twice or thrice in the night, and again in
 the morning. My left arm was a good deal burned to the elbow, and, less
 severely, as high as the shoulder; it was very painful, but the flames
@@ -16898,7 +17179,12 @@ disordered by the accident of last night?”
 “I know I am quite myself. And the man we have in hiding down the
 river, is Estella’s Father.”
 
+
+
+
 Chapter LI.
+
+
 What purpose I had in view when I was hot on tracing out and proving
 Estella’s parentage, I cannot say. It will presently be seen that the
 question was not before me in a distinct shape until it was put before
@@ -16953,7 +17239,7 @@ with instructions to draw the check for his signature. While that was
 in course of being done, I looked on at Wemmick as he wrote, and Mr.
 Jaggers, poising and swaying himself on his well-polished boots, looked
 on at me. “I am sorry, Pip,” said he, as I put the check in my pocket,
-when he had signed it, “that we do nothing for you.”
+when he had signed it, “that we do nothing for _you_.”
 
 “Miss Havisham was good enough to ask me,” I returned, “whether she
 could do nothing for me, and I told her No.”
@@ -16961,7 +17247,7 @@ could do nothing for me, and I told her No.”
 “Everybody should know his own business,” said Mr. Jaggers. And I saw
 Wemmick’s lips form the words “portable property.”
 
-“I should not have told her No, if I had been you,” said Mr Jaggers;
+“I should _not_ have told her No, if I had been you,” said Mr Jaggers;
 “but every man ought to know his own business best.”
 
 “Every man’s business,” said Wemmick, rather reproachfully towards me,
@@ -16976,7 +17262,7 @@ me all she possessed.”
 
 “Did she?” said Mr. Jaggers, bending forward to look at his boots and
 then straightening himself. “Hah! I don’t think I should have done so,
-if I had been Miss Havisham. But she ought to know her own business
+if I had been Miss Havisham. But _she_ ought to know her own business
 best.”
 
 “I know more of the history of Miss Havisham’s adopted child than Miss
@@ -17084,10 +17370,10 @@ think you’re another.”
 Again they exchanged their former odd looks, each apparently still
 distrustful that the other was taking him in.
 
-“You with a pleasant home?” said Mr. Jaggers.
+“_You_ with a pleasant home?” said Mr. Jaggers.
 
 “Since it don’t interfere with business,” returned Wemmick, “let it be
-so. Now, I look at you, sir, I shouldn’t wonder if you might be
+so. Now, I look at you, sir, I shouldn’t wonder if _you_ might be
 planning and contriving to have a pleasant home of your own one of
 these days, when you’re tired of all this work.”
 
@@ -17160,7 +17446,7 @@ to yourself very carefully.”
 
 “I do.”
 
-“I ask Wemmick to put it to himself very carefully.”
+“I ask Wemmick to put it to _him_self very carefully.”
 
 And Wemmick said, “I do.”
 
@@ -17175,7 +17461,7 @@ the subject of those ‘poor dreams’ which have, at one time or another,
 been in the heads of more men than you think likely, then I tell you
 that you had better—and would much sooner when you had thought well of
 it—chop off that bandaged left hand of yours with your bandaged right
-hand, and then pass the chopper on to Wemmick there, to cut that off
+hand, and then pass the chopper on to Wemmick there, to cut _that_ off
 too.”
 
 I looked at Wemmick, whose face was very grave. He gravely touched his
@@ -17228,7 +17514,12 @@ Wemmick appeared to have re-established their good understanding, and
 went to work again with an air of refreshment upon them as if they had
 just had lunch.
 
+
+
+
 Chapter LII.
+
+
 From Little Britain I went, with my check in my pocket, to Miss
 Skiffins’s brother, the accountant; and Miss Skiffins’s brother, the
 accountant, going straight to Clarriker’s and bringing Clarriker to me,
@@ -17334,9 +17625,9 @@ home), and its contents were these:—
 
 “If you are not afraid to come to the old marshes to-night or to-morrow
 night at nine, and to come to the little sluice-house by the limekiln,
-you had better come. If you want information regarding your uncle
-Provis, you had much better come and tell no one, and lose no time. You
-must come alone. Bring this with you.”
+you had better come. If you want information regarding _your uncle
+Provis_, you had much better come and tell no one, and lose no time.
+_You must come alone_. Bring this with you.”
 
 I had had load enough upon my mind before the receipt of this strange
 letter. What to do now, I could not tell. And the worst was, that I
@@ -17423,8 +17714,8 @@ can’t. And why? Because Pumblechook done everything for him.”
 “It would turn a man’s blood to white wine winegar to hear him tell of
 it, sir,” said the landlord.
 
-I thought, “Yet Joe, dear Joe, you never tell of it. Long-suffering and
-loving Joe, you never complain. Nor you, sweet-tempered Biddy!”
+I thought, “Yet Joe, dear Joe, _you_ never tell of it. Long-suffering
+and loving Joe, _you_ never complain. Nor you, sweet-tempered Biddy!”
 
 “Your appetite’s been touched like by your accident,” said the
 landlord, glancing at the bandaged arm under my coat. “Try a tenderer
@@ -17449,7 +17740,12 @@ Towards the marshes I now went straight, having no time to spare.
 
 [Illustration]
 
+
+
+
 Chapter LIII.
+
+
 It was a dark night, though the full moon rose as I left the enclosed
 lands, and passed out upon the marshes. Beyond their dark line there
 was a ribbon of clear sky, hardly broad enough to hold the red large
@@ -17560,8 +17856,8 @@ got you.”
 
 “Unbind me. Let me go!”
 
-“Ah!” he returned, “I’ll let you go. I’ll let you go to the moon, I’ll
-let you go to the stars. All in good time.”
+“Ah!” he returned, “_I_’ll let you go. I’ll let you go to the moon,
+I’ll let you go to the stars. All in good time.”
 
 “Why have you lured me here?”
 
@@ -17678,7 +17974,7 @@ death, before his slow and hesitating speech had formed these words.
 “I tell you it was your doing,—I tell you it was done through you,” he
 retorted, catching up the gun, and making a blow with the stock at the
 vacant air between us. “I come upon her from behind, as I come upon you
-to-night. I giv’ it her! I left her for dead, and if there had been a
+to-night. _I_ giv’ it her! I left her for dead, and if there had been a
 limekiln as nigh her as there is now nigh you, she shouldn’t have come
 to life again. But it warn’t Old Orlick as did it; it was you. You was
 favoured, and he was bullied and beat. Old Orlick bullied and beat, eh?
@@ -17719,7 +18015,7 @@ saw the rooms that I was never to see again; here, a door half open;
 there, a door closed; all the articles of furniture around.
 
 “And why was Old Orlick there? I’ll tell you something more, wolf. You
-and her have pretty well hunted me out of this country, so far as
+and her _have_ pretty well hunted me out of this country, so far as
 getting a easy living in it goes, and I’ve took up with new companions,
 and new masters. Some of ’em writes my letters when I wants ’em
 wrote,—do you mind?—writes my letters, wolf! They writes fifty hands;
@@ -17736,7 +18032,7 @@ over, pretty Clara, the good motherly woman, old Bill Barley on his
 back, all drifting by, as on the swift stream of my life fast running
 out to sea!
 
-“You with a uncle too! Why, I know’d you at Gargery’s when you was so
+“_You_ with a uncle too! Why, I know’d you at Gargery’s when you was so
 small a wolf that I could have took your weazen betwixt this finger and
 thumb and chucked you away dead (as I’d thoughts o’ doing, odd times,
 when I see you loitering amongst the pollards on a Sunday), and you
@@ -17758,7 +18054,7 @@ this ends it. There’s them that’s as good a match for your uncle Provis
 as Old Orlick has been for you. Let him ’ware them, when he’s lost his
 nevvy! Let him ’ware them, when no man can’t find a rag of his dear
 relation’s clothes, nor yet a bone of his body. There’s them that can’t
-and that won’t have Magwitch,—yes, I know the name!—alive in the same
+and that won’t have Magwitch,—yes, _I_ know the name!—alive in the same
 land with them, and that’s had such sure information of him when he was
 alive in another land, as that he couldn’t and shouldn’t leave it
 unbeknown and put them in danger. P’raps it’s them that writes fifty
@@ -17965,7 +18261,12 @@ flowing towards us.
 “When it turns at nine o’clock,” said Herbert, cheerfully, “look out
 for us, and stand ready, you over there at Mill Pond Bank!”
 
+
+
+
 Chapter LIV.
+
+
 It was one of those March days when the sun shines hot and the wind
 blows cold: when it is summer in the light, and winter in the shade. We
 had our pea-coats with us, and I took a bag. Of all my worldly
@@ -18051,12 +18352,12 @@ Again among the tiers of shipping, in and out, avoiding rusty
 chain-cables frayed hempen hawsers and bobbing buoys, sinking for the
 moment floating broken baskets, scattering floating chips of wood and
 shaving, cleaving floating scum of coal, in and out, under the
-figure-head of the John of Sunderland making a speech to the winds (as
-is done by many Johns), and the Betsy of Yarmouth with a firm formality
-of bosom and her knobby eyes starting two inches out of her head; in
-and out, hammers going in ship-builders’ yards, saws going at timber,
-clashing engines going at things unknown, pumps going in leaky ships,
-capstans going, ships going out to sea, and unintelligible
+figure-head of the _John of Sunderland_ making a speech to the winds
+(as is done by many Johns), and the _Betsy of Yarmouth_ with a firm
+formality of bosom and her knobby eyes starting two inches out of her
+head; in and out, hammers going in ship-builders’ yards, saws going at
+timber, clashing engines going at things unknown, pumps going in leaky
+ships, capstans going, ships going out to sea, and unintelligible
 sea-creatures roaring curses over the bulwarks at respondent
 lightermen, in and out,—out at last upon the clearer river, where the
 ships’ boys might take their fenders in, no longer fishing in troubled
@@ -18248,16 +18549,16 @@ physic in it.”
 
 “Why?”
 
-“I know why,” said the Jack. He spoke in a slushy voice, as if much mud
-had washed into his throat.
+“_I_ know why,” said the Jack. He spoke in a slushy voice, as if much
+mud had washed into his throat.
 
 “He thinks,” said the landlord, a weakly meditative man with a pale
 eye, who seemed to rely greatly on his Jack,—“he thinks they was, what
 they wasn’t.”
 
-“I knows what I thinks,” observed the Jack.
+“_I_ knows what I thinks,” observed the Jack.
 
-“You thinks Custom ’Us, Jack?” said the landlord.
+“_You_ thinks Custom ’Us, Jack?” said the landlord.
 
 “I do,” said the Jack.
 
@@ -18523,7 +18824,12 @@ that he had touched this point, for it put into my mind what I might
 not otherwise have thought of until too late,—that he need never know
 how his hopes of enriching me had perished.
 
+
+
+
 Chapter LV.
+
+
 He was taken to the Police Court next day, and would have been
 immediately committed for trial, but that it was necessary to send down
 for an old officer of the prison-ship from which he had once escaped,
@@ -18689,7 +18995,7 @@ scratching his head, “and I assure you I haven’t been so cut up for a
 long time. What I look at is the sacrifice of so much portable
 property. Dear me!”
 
-“What I think of, Wemmick, is the poor owner of the property.”
+“What _I_ think of, Wemmick, is the poor owner of the property.”
 
 “Yes, to be sure,” said Wemmick. “Of course, there can be no objection
 to your being sorry for him, and I’d put down a five-pound note myself
@@ -18717,8 +19023,8 @@ I was about to excuse myself, as being but a bad companion just then,
 when Wemmick anticipated me.
 
 “I know your engagements,” said he, “and I know you are out of sorts,
-Mr. Pip. But if you could oblige me, I should take it as a kindness. It
-ain’t a long walk, and it’s an early one. Say it might occupy you
+Mr. Pip. But if you _could_ oblige me, I should take it as a kindness.
+It ain’t a long walk, and it’s an early one. Say it might occupy you
 (including breakfast on the walk) from eight to twelve. Couldn’t you
 stretch a point and manage it?”
 
@@ -18795,15 +19101,15 @@ Upon which, the clergyman said again, “WHO giveth this woman to be
 married to this man?” The old gentleman being still in a state of most
 estimable unconsciousness, the bridegroom cried out in his accustomed
 voice, “Now Aged P. you know; who giveth?” To which the Aged replied
-with great briskness, before saying that he gave, “All right, John, all
-right, my boy!” And the clergyman came to so gloomy a pause upon it,
-that I had doubts for the moment whether we should get completely
+with great briskness, before saying that _he_ gave, “All right, John,
+all right, my boy!” And the clergyman came to so gloomy a pause upon
+it, that I had doubts for the moment whether we should get completely
 married that day.
 
 It was completely done, however, and when we were going out of church
 Wemmick took the cover off the font, and put his white gloves in it,
 and put the cover on again. Mrs. Wemmick, more heedful of the future,
-put her white gloves in her pocket and assumed her green. “Now, Mr.
+put her white gloves in her pocket and assumed her green. “_Now_, Mr.
 Pip,” said Wemmick, triumphantly shouldering the fishing-rod as we came
 out, “let me ask you whether anybody would suppose this to be a
 wedding-party!”
@@ -18837,7 +19143,12 @@ Wemmick nodded. “After what you let out the other day, Mr. Jaggers may
 as well not know of it. He might think my brain was softening, or
 something of the kind.”
 
+
+
+
 Chapter LVI.
+
+
 He lay in prison very ill, during the whole interval between his
 committal for trial and the coming round of the Sessions. He had broken
 two ribs, they had wounded one of his lungs, and he breathed with great
@@ -19056,7 +19367,12 @@ who went up into the Temple to pray, and I knew there were no better
 words that I could say beside his bed, than “O Lord, be merciful to him
 a sinner!”
 
+
+
+
 Chapter LVII.
+
+
 Now that I was left wholly to myself, I gave notice of my intention to
 quit the chambers in the Temple as soon as my tenancy could legally
 determine, and in the meanwhile to underlet them. At once I put bills
@@ -19150,7 +19466,7 @@ Joe. I asked for cooling drink, and the dear hand that gave it me was
 Joe’s. I sank back on my pillow after drinking, and the face that
 looked so hopefully and tenderly upon me was the face of Joe.
 
-At last, one day, I took courage, and said, “Is it Joe?”
+At last, one day, I took courage, and said, “_Is_ it Joe?”
 
 And the dear old home-voice answered, “Which it air, old chap.”
 
@@ -19382,7 +19698,7 @@ increasing diffidence.
 “Yes.”
 
 “I think,” said Joe, after meditating a long time, and looking rather
-evasively at the window-seat, “as I did hear tell that how he were
+evasively at the window-seat, “as I _did_ hear tell that how he were
 something or another in a general way in that direction.”
 
 “Did you hear anything of his circumstances, Joe?”
@@ -19397,7 +19713,7 @@ friends; ain’t us, Pip?”
 
 I was ashamed to answer him.
 
-“Wery good, then,” said Joe, as if I had answered; “that’s all right;
+“Wery good, then,” said Joe, as if I _had_ answered; “that’s all right;
 that’s agreed upon. Then why go into subjects, old chap, which as
 betwixt two sech must be for ever onnecessary? There’s subjects enough
 as betwixt two sech, without onnecessary ones. Lord! To think of your
@@ -19542,9 +19858,12 @@ were its brief contents:—
 “Not wishful to intrude I have departured fur you are well again dear
 Pip and will do better without
 
+
 JO.
 
+
 “P.S. Ever the best of friends.”
+
 
 Enclosed in the letter was a receipt for the debt and costs on which I
 had been arrested. Down to that moment, I had vainly supposed that my
@@ -19582,7 +19901,12 @@ Such was my purpose. After three days more of recovery, I went down to
 the old place to put it in execution. And how I sped in it is all I
 have left to tell.
 
+
+
+
 Chapter LVIII.
+
+
 The tidings of my high fortunes having had a heavy fall had got down to
 my native place and its neighbourhood before I got there. I found the
 Blue Boar in possession of the intelligence, and I found that it made a
@@ -19667,7 +19991,7 @@ the opportunity he wanted.
 
 “Yes, young man,” said he, releasing the handle of the article in
 question, retiring a step or two from my table, and speaking for the
-behoof of the landlord and waiter at the door, “I will leave that
+behoof of the landlord and waiter at the door, “I _will_ leave that
 teapot alone. You are right, young man. For once you are right. I
 forgit myself when I take such an interest in your breakfast, as to
 wish your frame, exhausted by the debilitating effects of
@@ -19723,7 +20047,7 @@ character, Joseph, and is well acquainted with your pig-headedness and
 ignorance; and he knows my character, Joseph, and he knows my want of
 gratitoode. Yes, Joseph,’ says you,” here Pumblechook shook his head
 and hand at me, “‘he knows my total deficiency of common human
-gratitoode. He knows it, Joseph, as none can. You do not know it,
+gratitoode. _He_ knows it, Joseph, as none can. _You_ do not know it,
 Joseph, having no call to know it, but that man do.’”
 
 Windy donkey as he was, it really amazed me that he could have the face
@@ -19732,8 +20056,8 @@ to talk thus to mine.
 “Says you, ‘Joseph, he gave me a little message, which I will now
 repeat. It was that, in my being brought low, he saw the finger of
 Providence. He knowed that finger when he saw Joseph, and he saw it
-plain. It pinted out this writing, Joseph. Reward of ingratitoode to
-his earliest benefactor, and founder of fortun’s. But that man said he
+plain. It pinted out this writing, Joseph. _Reward of ingratitoode to
+his earliest benefactor, and founder of fortun’s_. But that man said he
 did not repent of what he had done, Joseph. Not at all. It was right to
 do it, it was kind to do it, it was benevolent to do it, and he would
 do it again.’”
@@ -19808,7 +20132,7 @@ because I looked so worn and white.
 
 “Yes, dear Pip.”
 
-“And Joe, how smart you are!”
+“And Joe, how smart _you_ are!”
 
 “Yes, dear old Pip, old chap.”
 
@@ -19885,6 +20209,9 @@ minutes by myself. And then, when I have eaten and drunk with you, go
 with me as far as the finger-post, dear Joe and Biddy, before we say
 good-bye!”
 
+
+
+
 I sold all I had, and put aside as much as I could, for a composition
 with my creditors,—who gave me ample time to pay them in full,—and I
 went out and joined Herbert. Within a month, I had quitted England, and
@@ -19911,7 +20238,12 @@ wondered how I had conceived that old idea of his inaptitude, until I
 was one day enlightened by the reflection, that perhaps the inaptitude
 had never been in him at all, but had been in me.
 
+
+
+
 Chapter LIX.
+
+
 For eleven years, I had not seen Joe nor Biddy with my bodily
 eyes,—though they had both been often before my fancy in the
 East,—when, upon an evening in December, an hour or two after dark, I
@@ -19923,9 +20255,9 @@ the corner with Joe’s leg, and sitting on my own little stool looking
 at the fire, was—I again!
 
 “We giv’ him the name of Pip for your sake, dear old chap,” said Joe,
-delighted, when I took another stool by the child’s side (but I did not
-rumple his hair), “and we hoped he might grow a little bit like you,
-and we think he do.”
+delighted, when I took another stool by the child’s side (but I did
+_not_ rumple his hair), “and we hoped he might grow a little bit like
+you, and we think he do.”
 
 I thought so too, and I took him out for a walk next morning, and we
 talked immensely, understanding one another to perfection. And I took
@@ -20092,29 +20424,36 @@ the evening mists were rising now, and in all the broad expanse of
 tranquil light they showed to me, I saw no shadow of another parting
 from her.
 
+
+
+
 *** END OF THE PROJECT GUTENBERG EBOOK GREAT EXPECTATIONS ***
 
-Updated editions will replace the previous one—the old editions will be
-renamed.
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works, so
-the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright royalties.
-Special rules, set forth in the General Terms of Use part of this
-license, apply to copying and distributing Project Gutenberg™
-electronic works to protect the PROJECT GUTENBERG™ concept and
-trademark. Project Gutenberg is a registered trademark, and may not be
-used if you charge for an eBook, except by following the terms of the
-trademark license, including paying royalties for use of the Project
-Gutenberg trademark. If you do not charge anything for copies of this
-eBook, complying with the trademark license is very easy. You may use
-this eBook for nearly any purpose such as creation of derivative works,
-reports, performances and research. Project Gutenberg eBooks may be
-modified and printed and given away—you may do practically ANYTHING in
-the United States with eBooks not protected by U.S. copyright law.
-Redistribution is subject to the trademark license, especially
-commercial redistribution.
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
 
 START: FULL LICENSE
 
@@ -20125,95 +20464,96 @@ PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 To protect the Project Gutenberg™ mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg License available with this file or online at
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
 www.gutenberg.org/license.
 
 Section 1. General Terms of Use and Redistributing Project Gutenberg
 electronic works
 
-1.A. By reading or using any part of this Project Gutenberg electronic
-work, you indicate that you have read, understand, agree to and accept
-all the terms of this license and intellectual property
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg electronic works in your possession. If
-you paid a fee for obtaining a copy of or access to a Project Gutenberg
-electronic work and you do not agree to be bound by the terms of this
-agreement, you may obtain a refund from the person or entity to whom
-you paid the fee as set forth in paragraph 1.E.8.
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B. “Project Gutenberg” is a registered trademark. It may only be used
-on or associated in any way with an electronic work by people who agree
-to be bound by the terms of this agreement. There are a few things that
-you can do with most Project Gutenberg electronic works even without
-complying with the full terms of this agreement. See paragraph 1.C
-below. There are a lot of things you can do with Project Gutenberg
-electronic works if you follow the terms of this agreement and help
-preserve free future access to Project Gutenberg electronic works. See
-paragraph 1.E below.
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
 
 1.C. The Project Gutenberg Literary Archive Foundation (“the
 Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg electronic works. Nearly all the individual works
-in the collection are in the public domain in the United States. If an
-individual work is unprotected by copyright law in the United States
-and you are located in the United States, we do not claim a right to
-prevent you from copying, distributing, performing, displaying or
-creating derivative works based on the work as long as all references
-to Project Gutenberg are removed. Of course, we hope that you will
-support the Project Gutenberg mission of promoting free access to
-electronic works by freely sharing Project Gutenberg works in
-compliance with the terms of this agreement for keeping the Project
-Gutenberg name associated with the work. You can easily comply with the
-terms of this agreement by keeping this work in the same format with
-its attached full Project Gutenberg License when you share it without
-charge with others.
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
 
 1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are in
-a constant state of change. If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg work. The Foundation makes no representations concerning the
-copyright status of any work in any country other than the United
-States.
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1. The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg License must appear prominently
-whenever any copy of a Project Gutenberg work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
 
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no
-restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg™ License included with this
-eBook or online at www.gutenberg.org. If you are not located in the
-United States, you will have to check the laws of the country where you
-are located before using this eBook.
-
-1.E.2. If an individual Project Gutenberg electronic work is derived
-from texts not protected by U.S. copyright law (does not contain a
-notice indicating that it is posted with permission of the copyright
-holder), the work can be copied and distributed to anyone in the United
-States without paying any fees or charges. If you are redistributing or
-providing access to a work with the phrase “Project Gutenberg”
-associated with or appearing on the work, you must comply either with
-the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
-for the use of the work and the Project Gutenberg trademark as set
-forth in paragraphs 1.E.8 or 1.E.9.
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
 1.E.3. If an individual Project Gutenberg electronic work is posted
 with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder. Additional terms will be linked
-to the Project Gutenberg License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
 
 1.E.4. Do not unlink or detach or remove the full Project Gutenberg
 License terms from this work, or any files containing a part of this
@@ -20228,56 +20568,59 @@ Gutenberg License.
 1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg work in a format other
-than “Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg website (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form. Any alternate format must include the full Project Gutenberg
-License as specified in paragraph 1.E.1.
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
 
 1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg works unless
-you comply with paragraph 1.E.8 or 1.E.9.
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg electronic works provided
-that:
+access to or distributing Project Gutenberg electronic works
+provided that:
 
-• You pay a royalty fee of 20% of the gross profits you derive from the
-use of Project Gutenberg works calculated using the method you already
-use to calculate your applicable taxes. The fee is owed to the owner of
-the Project Gutenberg trademark, but he has agreed to donate royalties
-under this paragraph to the Project Gutenberg Literary Archive
-Foundation. Royalty payments must be paid within 60 days following each
-date on which you prepare (or are legally required to prepare) your
-periodic tax returns. Royalty payments should be clearly marked as such
-and sent to the Project Gutenberg Literary Archive Foundation at the
-address specified in Section 4, “Information about donations to the
-Project Gutenberg Literary Archive Foundation.”
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
 
-• You provide a full refund of any money paid by a user who notifies
-you in writing (or by e-mail) within 30 days of receipt that s/he does
-not agree to the terms of the full Project Gutenberg™ License. You must
-require such a user to return or destroy all copies of the works
-possessed in a physical medium and discontinue all use of and all
-access to other copies of Project Gutenberg™ works.
-
-• You provide, in accordance with paragraph 1.F.3, a full refund of any
-money paid for a work or a replacement copy, if a defect in the
-electronic work is discovered and reported to you within 90 days of
-receipt of the work.
-
-• You comply with all other terms of this agreement for free
-distribution of Project Gutenberg™ works.
-
-1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™
-electronic work or group of works on different terms than are set forth
-in this agreement, you must obtain permission in writing from the
-Project Gutenberg Literary Archive Foundation, the manager of the
-Project Gutenberg™ trademark. Contact the Foundation as set forth in
-Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
 
 1.F.
 
@@ -20289,87 +20632,89 @@ electronic works, and the medium on which they may be stored, may
 contain “Defects,” such as, but not limited to, incomplete, inaccurate
 or corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or cannot
-be read by your equipment.
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
 
 1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
 of Replacement or Refund” described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all liability
-to you for damages, costs and expenses, including legal fees. YOU AGREE
-THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF
-WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH
-1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY
-DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL,
-DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF
-YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
 
 1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium with
-your written explanation. The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund. If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund. If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
 
 1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates
-the law of the state applicable to this agreement, the agreement shall
-be interpreted to make the maximum disclaimer or limitation permitted
-by the applicable state law. The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
 
 1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg™ electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you
-do or cause to occur: (a) distribution of this or any Project Gutenberg
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg work, and (c) any Defect you cause.
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
 
 Section 2. Information about the Mission of Project Gutenberg
 
 Project Gutenberg is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers. It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg’s goals
-and ensuring that the Project Gutenberg collection will remain freely
-available for generations to come. In 2001, the Project Gutenberg
-Literary Archive Foundation was created to provide a secure and
-permanent future for Project Gutenberg and future generations. To learn
-more about the Project Gutenberg Literary Archive Foundation and how
-your efforts and donations can help, see Sections 3 and 4 and the
-Foundation information page at www.gutenberg.org.
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
 
-Section 3. Information about the Project Gutenberg Literary Archive
-Foundation
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the state
-of Mississippi and granted tax exempt status by the Internal Revenue
-Service. The Foundation’s EIN or federal tax identification number is
-64-6221541. Contributions to the Project Gutenberg Literary Archive
-Foundation are tax deductible to the full extent permitted by U.S.
-federal laws and your state’s laws.
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
 
 The Foundation’s business office is located at 41 Watchung Plaza #516,
 Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
@@ -20380,42 +20725,43 @@ Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
 Project Gutenberg™ depends upon and cannot survive without widespread
-public support and donations to carry out its mission of increasing the
-number of public domain and licensed works that can be freely
-distributed in machine-readable form accessible by the widest array of
-equipment including outdated equipment. Many small donations ($1 to
-$5,000) are particularly important to maintaining tax exempt status
-with the IRS.
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
 States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations where
-we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate.
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
 
-International donations are gratefully accepted, but we cannot make any
-statements concerning tax treatment of donations received from outside
-the United States. U.S. laws alone swamp our small staff.
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other ways
-including checks, online payments and credit card donations. To donate,
-please visit: www.gutenberg.org/donate.
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
 
 Section 5. General Information About Project Gutenberg electronic works
 
-Professor Michael S. Hart was the originator of the Project Gutenberg
-concept of a library of electronic works that could be freely shared
-with anyone. For forty years, he produced and distributed Project
-Gutenberg eBooks with only a loose network of volunteer support.
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
 
 Project Gutenberg eBooks are often created from several printed
 editions, all of which are confirmed as not protected by copyright in
@@ -20423,11 +20769,11 @@ the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
 
-Most people start at our website which has the main PG search facility:
-www.gutenberg.org.
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
 
-This website includes information about Project Gutenberg, including
-how to make donations to the Project Gutenberg Literary Archive
-Foundation, how to help produce our new eBooks, and how to subscribe to
-our email newsletter to hear about new
-eBooks.
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
